@@ -9,7 +9,7 @@
 
 ---
 
-## 🌍 Live Demo
+## 🌍 Check Out the Webapp Below:
 
 👉 **[denken-german.vercel.app](https://denken-german.vercel.app)**
 
