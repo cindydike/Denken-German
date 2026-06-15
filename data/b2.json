@@ -1,0 +1,914 @@
+[
+  {
+    "id": 1,
+    "english": "We must take into consideration that economic framework conditions could shift significantly.",
+    "german": "Wir müssen in Betracht ziehen, dass sich die wirtschaftlichen Rahmenbedingungen erheblich verändern könnten.",
+    "grammar_note": "B2 professional register substitutes simple verbs with functional noun-verb idioms like 'in Betracht ziehen' (to take into consideration)."
+  },
+  {
+    "id": 2,
+    "english": "The problem can easily be solved if all departments cooperate transparently.",
+    "german": "Das Problem lässt sich leicht lösen, wenn alle Abteilungen transparent kooperieren.",
+    "grammar_note": "Demonstrates the B2 passive alternative 'sich lassen + infinitive' to express capability or possibility instead of using 'können... werden'."
+  },
+  {
+    "id": 3,
+    "english": "Despite all efforts, the deadline could not be met due to a systemic delivery bottleneck.",
+    "german": "Ungeachtet aller Bemühungen konnte die Frist aufgrund eines systemischen Lieferengpasses nicht eingehalten werden.",
+    "grammar_note": "Introduces the elevated genitive preposition 'ungeachtet' (notwithstanding / despite) alongside specialized corporate terminology ('Lieferengpass')."
+  },
+  {
+    "id": 4,
+    "english": "The management assumes that the measures introduced will bear fruit in the long term.",
+    "german": "Die Geschäftsführung geht davon aus, dass die eingeleiteten Maßnahmen langfristig Früchte tragen werden.",
+    "grammar_note": "Features the abstract metaphorical idiom 'Früchte tragen' (to bear fruit) alongside the inline extended participle modifier 'die eingeleiteten Maßnahmen'."
+  },
+  {
+    "id": 5,
+    "english": "If the error had been discovered earlier, this immense financial loss could have been avoided.",
+    "german": "Wäre der Fehler früher entdeckt worden, hätte dieser immense finanzielle Verlust vermieden werden können.",
+    "grammar_note": "A complex past hypothetical (Konjunktiv II) structure involving a passive condition and a modal passive main clause ending in a triple-verb cascade."
+  },
+  {
+    "id": 6,
+    "english": "It is to be expected that digital transformation will fundamentally change the job market.",
+    "german": "Es ist zu erwarten, dass die digitale Transformation den Arbeitsmarkt grundlegend verändern wird.",
+    "grammar_note": "Uses the active gerundive-style alternative passive structure 'sein + zu + infinitive' which carries a passive necessity or probability meaning."
+  },
+  {
+    "id": 7,
+    "english": "The proposal, regarding whose financing there is still disagreement, will be discussed again tomorrow.",
+    "german": "Der Vorschlag, bezüglich dessen Finanzierung noch Uneinigkeit herrscht, wird morgen erneut diskutiert.",
+    "grammar_note": "A relative clause utilizing the advanced masculine relative genitive pronoun 'dessen' driven by the genitive preposition 'bezüglich'."
+  },
+  {
+    "id": 8,
+    "english": "The more precisely the target group is analyzed, the more targeted the marketing campaign can be designed.",
+    "german": "Je präziser die Zielgruppe analysiert wird, umso zielgerichteter kann die Marketingkampagne gestaltet werden.",
+    "grammar_note": "Proportional clause variation using 'je... umso' instead of 'je... desto', combining a passive structure in both the relative and main fields."
+  },
+  {
+    "id": 9,
+    "english": "He contributed significantly to the success of the negotiation by making a constructive compromise.",
+    "german": "Er hat maßgeblich zum Erfolg der Verhandlung beigetragen, indem er einen konstruktiven Kompromiss eingegangen ist.",
+    "grammar_note": "B2 standard vocabulary: 'maßgeblich' (decisively/significantly) and the fixed verbal-nominal phrase 'einen Kompromiss eingehen'."
+  },
+  {
+    "id": 10,
+    "english": "It depends heavily on your qualification to what extent you can be considered for this leadership position.",
+    "german": "Es hängt stark von Ihrer Qualifikation ab, inwiefern Sie für diese Führungsposition infrage kommen.",
+    "grammar_note": "Replaces basic indirect question tags like 'wie' with the analytical B2 connector 'inwiefern' (to what extent / in how far)."
+  },
+  {
+    "id": 11,
+    "english": "The restructuring of the company serves to safeguard existing jobs over the long term.",
+    "german": "Die Umstrukturierung des Unternehmens dient dazu, die bestehenden Arbeitsplätze langfristig zu sichern.",
+    "grammar_note": "Functional prepositional verb 'dienen zu' linked through the placeholder 'dazu' to establish a structural corporate-strategic purpose."
+  },
+  {
+    "id": 12,
+    "english": "I am writing to express my deepest disappointment regarding the handling of my complaint.",
+    "german": "Ich wende mich an Sie, um meiner tiefsten Enttäuschung über die Handhabung meiner Beschwerde Ausdruck zu verleihen.",
+    "grammar_note": "A highly sophisticated epistolary formula using 'Ausdruck verleihen' + dative to formally articulate an emotion or stance."
+  },
+  {
+    "id": 13,
+    "english": "The current study highlights that regular training increases cognitive performance.",
+    "german": "Die aktuelle Studie verdeutlicht, dass regelmäßiges Training die kognitive Leistungsfähigkeit steigert.",
+    "grammar_note": "Academic reporting register: 'verdeutlichen' (to clarify/illustrate) and abstract concepts like 'kognitive Leistungsfähigkeit'."
+  },
+  {
+    "id": 14,
+    "english": "The government is trying to counteract rising inflation by increasing the key interest rate.",
+    "german": "Die Regierung versucht, der steigenden Inflation durch eine Erhöhung des Leitzinses entgegenzuwirken.",
+    "grammar_note": "Macroeconomic terminology. The verb 'entgegenwirken' requires a dative object ('der steigenden Inflation') and sits at the end of the infinitive clause."
+  },
+  {
+    "id": 15,
+    "english": "The documents are to be kept strictly confidential until the final contract signature.",
+    "german": "Die Unterlagen sind bis zur endgültigen Vertragsunterzeichnung streng vertraulich zu behandeln.",
+    "grammar_note": "The 'sein + zu + infinitive' construct here communicates an institutional obligation/imperative (must be treated confidentially)."
+  },
+  {
+    "id": 16,
+    "english": "I am not completely convinced whether this investment is legally secure.",
+    "german": "Ich bin mir nicht vollkommen darüber im Klaren, ob diese Investition rechtlich abgesichert ist.",
+    "grammar_note": "Replaces simple mental descriptions with the complex idiomatic construction 'sich darüber im Klaren sein' (to be fully aware of / clear about)."
+  },
+  {
+    "id": 17,
+    "english": "The new guidelines apply to all employees, regardless of their position within the hierarchy.",
+    "german": "Die neuen Richtlinien gelten für alle Mitarbeiter, unabhängig von deren Position innerhalb der Hierarchie.",
+    "grammar_note": "Employs the genitive-style demonstrative pronoun plural 'deren' instead of simple possessive adjectives to maintain formal analytical distance."
+  },
+  {
+    "id": 18,
+    "english": "The technical failure led to a complete standstill of production for several hours.",
+    "german": "Der technische Ausfall führte zu einem mehrstündigen, vollständigen Stillstand der Produktion.",
+    "grammar_note": "Combines parallel adjectival declensions in the dative case with a terminating genitive structural attribute block."
+  },
+  {
+    "id": 19,
+    "english": "He speaks German so fluently that one could assume it is his mother tongue.",
+    "german": "Er beherrscht die deutsche Sprache so fließend, dass man annehmen könnte, es handle sich um seine Muttersprache.",
+    "grammar_note": "Features Konjunktiv I ('handle sich um') to indicate indirect speech or a reported assumption without confirming it as absolute objective fact."
+  },
+  {
+    "id": 20,
+    "english": "The customer insists on being compensated immediately for the inconvenience caused.",
+    "german": "Der Kunde besteht darauf, für die entstandenen Unannehmlichkeiten unverzüglich entschädigt zu werden.",
+    "grammar_note": "The prepositional verb 'bestehen auf' + 'darauf' triggers a passive infinitive clause ('entschädigt zu werden') containing specialized service jargon."
+  },
+  {
+    "id": 21,
+    "english": "We must adapt to the new legal requirements as quickly as possible.",
+    "german": "Wir müssen uns so rasch wie möglich an die veränderten gesetzlichen Bestimmungen anpassen.",
+    "grammar_note": "Reflexive 'sich anpassen an' + accusative paired with inline extended passive attributive descriptions ('die veränderten gesetzlichen Bestimmungen')."
+  },
+  {
+    "id": 22,
+    "english": "The dynamic development of the market opens up completely new perspectives for our start-up.",
+    "german": "Die dynamische Marktentwicklung eröffnet unserem Start-up völlig neue Perspektiven.",
+    "grammar_note": "B2 innovation strategy terminology. Eliminates prepositions where possible by organizing clean dative indirect/accusative direct object structures."
+  },
+  {
+    "id": 23,
+    "english": "I would appreciate it if you could grant me an extension of the deadline.",
+    "german": "Ich wäre Ihnen sehr verbunden, wenn Sie mir einen Aufschub der Frist gewähren könnten.",
+    "grammar_note": "An ultra-formal professional correspondence formula. Uses 'jemandem verbunden sein' and the high-register verb 'gewähren' (to grant)."
+  },
+  {
+    "id": 24,
+    "english": "The project failed not due to lack of budget, but due to poor internal communication.",
+    "german": "Das Projekt scheiterte nicht an mangelnden finanziellen Mitteln, sondern vielmehr an einer defizitären internen Kommunikation.",
+    "grammar_note": "The verb 'scheitern an' takes the dative. The phrase uses 'vielmehr' (rather / more precisely) to contrast alternative systemic explanations."
+  },
+  {
+    "id": 25,
+    "english": "The employee whose behavior led to the complaint has been officially warned.",
+    "german": "Der Mitarbeiter, dessen Fehlverhalten zur Beschwerde führte, ist offiziell abgemahnt worden.",
+    "german_thinking": "Legal/HR vocabulary: 'Abmahnen' (to officially/formally warn an employee). The main clause resolves via a passive present perfect architecture."
+  },
+  {
+    "id": 26,
+    "english": "The measure was implemented in order to prevent a further spread of the virus.",
+    "german": "Die Maßnahme wurde ergriffen, um einer weiteren Ausbreitung des Virus entgegenzuwirken.",
+    "grammar_note": "Idiomatic noun-verb collocation 'Maßnahmen ergreifen' paired with an 'um... zu' clause dominating a dative government verb."
+  },
+  {
+    "id": 27,
+    "english": "I am of the opinion that continuous education is of essential importance today.",
+    "german": "Ich bin der Ansicht, dass kontinuierliche Weiterbildung von essenzieller Bedeutung ist.",
+    "grammar_note": "B2 standard opinion layout using genitive attribute initialization 'ich bin der Ansicht' and abstract classification 'von essenzieller Bedeutung sein'."
+  },
+  {
+    "id": 28,
+    "english": "The new software is extremely complex, which is why intensive training is required.",
+    "german": "Die neue Software weist eine hohe Komplexität auf, weswegen eine intensive Einarbeitung erforderlich ist.",
+    "grammar_note": "Substitutes 'ist komplex' with formal 'weist eine hohe Komplexität auf' (exhibits high complexity) linked via relative connector 'weswegen'."
+  },
+  {
+    "id": 29,
+    "english": "We must verify whether the structural changes are compatible with current labor law.",
+    "german": "Wir müssen überprüfen, ob die strukturellen Veränderungen mit dem geltenden Arbeitsrecht vereinbar sind.",
+    "grammar_note": "Legal compliance phrasing. 'Vereinbar sein mit' (to be compatible/reconcilable with) dictates dative case distribution."
+  },
+  {
+    "id": 30,
+    "english": "The supplier has assured us that the delayed raw materials will be delivered by tomorrow.",
+    "german": "Der Lieferant hat uns zugesichert, dass die verzögerten Rohstoffe bis morgen angeliefert werden.",
+    "grammar_note": "Upgrades 'versprechen' to 'zusichern' (to formally assure/guarantee) to track supply chain variables inside a passive subordinate block."
+  },
+  {
+    "id": 31,
+    "english": "The position requires a high degree of flexibility as well as intercultural competence.",
+    "german": "Die Position erfordert ein hohes Maß an Flexibilität sowie interkulturelle Kompetenz.",
+    "grammar_note": "Uses the complex quantitative phrase 'ein hohes Maß an' + dative, integrated with the sophisticated stylistic coordinator 'sowie' (as well as)."
+  },
+  {
+    "id": 32,
+    "english": "It is questionable whether the planned budget will suffice for all project phases.",
+    "german": "Es ist fraglich, ob das veranschlagte Budget für sämtliche Projektphasen ausreichen wird.",
+    "grammar_note": "Advanced accounting concepts. Replaces 'geplant' with 'veranschlagt' (budgeted/estimated) and 'alle' with formal 'sämtliche' (all inclusive)."
+  },
+  {
+    "id": 33,
+    "english": "He has built a broad network that will be of great benefit to him in his future career.",
+    "german": "Er hat sich ein breites Netzwerk aufgebaut, das ihm beim zukünftigen Karrieresprung von großem Nutzen sein wird.",
+    "grammar_note": "Corporate tracking idiom 'jemandem von Nutzen sein' (to be of use/benefit to someone) operating inside a future tense relative clause."
+  },
+  {
+    "id": 34,
+    "english": "The decision was delayed because internal consensus could not be reached.",
+    "german": "Die Entscheidungsfindung verzögerte sich, weil kein interner Konsens erzielt werden konnte.",
+    "grammar_note": "Nominal tracking style: 'Entscheidungsfindung' (the process of decision-making) paired with the functional collocation 'einen Konsens erzielen'."
+  },
+  {
+    "id": 35,
+    "english": "I would like to apply for the position advertised in the local newspaper.",
+    "german": "Ich möchte mich um die in der Lokalzeitung ausgeschriebene Stelle bewerben.",
+    "grammar_note": "Features a classic extended participle attribute group wrapping around the feminine noun 'Stelle' in the prepositional accusative space."
+  },
+  {
+    "id": 36,
+    "english": "The continuous workload led to a noticeable deterioration of the working environment.",
+    "german": "Die anhaltende Arbeitsbelastung führte zu einer spürbaren Verschlechterung des Betriebsklimas.",
+    "grammar_note": "HR analytics tracking phrases: 'Arbeitsbelastung' (workload/stress) and genitive 'Betriebsklimas' (workplace culture/atmosphere)."
+  },
+  {
+    "id": 37,
+    "english": "The contractor committed to compensating for any structural damage immediately.",
+    "german": "Der Auftragnehmer hat sich dazu verpflichtet, jegliche bauliche Schäden unverzüglich zu beheben.",
+    "grammar_note": "Legal contract obligations. 'Sich verpflichten zu' triggers an infinitive containing the advanced verb 'beheben' (to rectify/remedy damage)."
+  },
+  {
+    "id": 38,
+    "english": "We must take immediate measures to ensure corporate security.",
+    "german": "Wir müssen unverzüglich Maßnahmen ergreifen, um die Unternehmenssicherheit zu gewährleisten.",
+    "grammar_note": "High-register operational planning verbs: 'unverzüglich' (without delay), 'Maßnahmen ergreifen', and 'gewährleisten' (to guarantee/ensure)."
+  },
+  {
+    "id": 39,
+    "english": "The research results contribute significantly to the understanding of this phenomenon.",
+    "german": "Die Forschungsergebnisse tragen maßgeblich zum Verständnis dieses Phänomens bei.",
+    "grammar_note": "Scientific reporting sequence tracking separable verb 'beitragen zu' alongside a neuter genitive noun phrase modifier ('dieses Phänomens')."
+  },
+  {
+    "id": 40,
+    "english": "It is of highest priority that the safety regulations are checked regularly.",
+    "german": "Es ist von höchster Priorität, dass die Sicherheitsvorschriften regelmäßig überprüft werden.",
+    "grammar_note": "Institutional warning framework setting up a dative genitive indicator block prior to executing a mandatory passive check."
+  },
+  {
+    "id": 41,
+    "english": "The market launch of the product had to be postponed due to unexpected complications.",
+    "german": "Die Markteinführung des Produkts musste aufgrund unerwarteter Komplikationen verschoben werden.",
+    "grammar_note": "Combines a compound noun corporate theme with an unarticled plural genitive adjective-noun cause clause ('aufgrund unerwarteter Komplikationen')."
+  },
+  {
+    "id": 42,
+    "english": "I will keep you informed about any further developments regarding this matter.",
+    "german": "Ich werde Sie über jegliche weitere Entwicklungen in dieser Angelegenheit auf dem Laufenden halten.",
+    "grammar_note": "The idiomatic professional phrase 'jemanden auf dem Laufenden halten' means to keep someone updated or continuously informed."
+  },
+  {
+    "id": 43,
+    "english": "The analysis indicates that consumers increasingly value sustainability.",
+    "german": "Die Analyse deutet darauf hin, dass Verbraucher zunehmend Wert auf Nachhaltigkeit legen.",
+    "grammar_note": "The prepositional verb 'hindeuten auf' introduces a consumer trend insight via placeholder tracking particles ('darauf hin')."
+  },
+  {
+    "id": 44,
+    "english": "The employee was dismissed because he had repeatedly violated safety guidelines.",
+    "german": "Der Mitarbeiter wurde entlassen, da er wiederholt gegen die Sicherheitsrichtlinien verstoßen hatte.",
+    "grammar_note": "Labor conflict terms. 'Verstoßen gegen' requires the accusative case to chart a violation of standard company operational rules."
+  },
+  {
+    "id": 45,
+    "english": "We are seeking a solution that is both economically viable and ecologically sustainable.",
+    "german": "Wir streben eine Lösung an, die sowohl wirtschaftlich rentabel als auch ökologisch nachhaltig ist.",
+    "grammar_note": "Features the analytical verb 'anstreben' (to strive for / aim at) integrated across a double-part correlative conjunction ('sowohl... als auch')."
+  },
+  {
+    "id": 46,
+    "english": "The system failure cannot be traced back to human error according to initial insights.",
+    "german": "Der Systemausfall lässt sich nach ersten Erkenntnissen nicht auf menschliches Versagen zurückführen.",
+    "grammar_note": "Utilizes the alternative passive 'lässt sich... zurückführen auf' (can be traced back to) alongside corporate safety jargon."
+  },
+  {
+    "id": 47,
+    "english": "I would like to revoke my consent to the data processing agreement.",
+    "german": "Ich möchte meine Einwilligung zur Datenverarbeitungserklärung widerrufen.",
+    "grammar_note": "Compliance/Privacy terms: 'Einwilligung widerrufen' (to revoke consent) governing a compound legal noun ('Datenverarbeitungserklärung')."
+  },
+  {
+    "id": 48,
+    "english": "The seminar offers an excellent opportunity to expand professional networks.",
+    "german": "Das Seminar bietet eine hervorragende Gelegenheit, um fachliche Netzwerke auszubauen.",
+    "grammar_note": "Upgrades basic 'beruflich' to 'fachlich' (specialist / technical-professional) and 'erweitern' to 'ausbauen' (to consolidate/expand infrastructure)."
+  },
+  {
+    "id": 49,
+    "english": "The witness could not provide any precise information regarding the event sequence.",
+    "german": "Der Zeuge konnte keine präzisen Angaben bezüglich des Tathergangs machen.",
+    "grammar_note": "Legal/Investigation prose: 'Angaben machen' (to provide official statements/information) and genitive 'Tathergangs' (sequence of events/crime details)."
+  },
+  {
+    "id": 50,
+    "english": "We must ensure that all relevant legal provisions are strictly met.",
+    "german": "Wir müssen sicherstellen, dass alle relevanten gesetzlichen Bestimmungen strikt erfüllt werden.",
+    "grammar_note": "Compliance standard. The plural adjective strings follow weak alignment rules after the definite determinant 'alle' inside a passive close."
+  },
+  {
+    "id": 51,
+    "english": "The presentation of the financial figures caused great unrest among investors.",
+    "german": "Die Präsentation der Kennzahlen löste unter den Anlegern große Unruhe aus.",
+    "grammar_note": "Financial context: 'Kennzahlen' (key performance indicators / financial metrics) and 'Anleger' (investors / financial stakeholders)."
+  },
+  {
+    "id": 52,
+    "english": "The customer requested a schriftliche confirmation of the verbal agreement.",
+    "german": "Der Kunde forderte eine schriftliche Bestätigung der mündlichen Vereinbarung.",
+    "grammar_note": "Contract terminology: 'mündliche Vereinbarung' (verbal agreement/understanding) placed into a feminine genitive defining relation block."
+  },
+  {
+    "id": 53,
+    "english": "I assume that the planned goals will be reached within the timeframe.",
+    "german": "Ich gehe davon aus, dass die gesteckten Ziele innerhalb des Zeitrahmens erreicht werden.",
+    "grammar_note": "Collocation 'Ziele stecken' (to set goals) used as a past participle modifier ('die gesteckten Ziele') inside a temporal genitive frame."
+  },
+  {
+    "id": 54,
+    "english": "The company distinguishes itself through a flat hierarchy and high transparency.",
+    "german": "Das Unternehmen zeichnet sich durch eine flache Hierarchie und hohe Transparenz aus.",
+    "german_thinking": "Corporate identity terms. The reflexive verb 'sich auszeichnen durch' characterizes structural core advantages using accusative values."
+  },
+  {
+    "id": 55,
+    "english": "The project was discontinued because the continuous costs exceeded the budget.",
+    "german": "Das Projekt wurde eingestellt, da die laufenden Kosten das Budget überschritten.",
+    "grammar_note": "Financial operations tracking: 'Projekt einstellen' (to abort/discontinue a project) combined with Präteritum narration ('überschritten')."
+  },
+  {
+    "id": 56,
+    "english": "The candidate has excellent references, which is why he is being invited for an interview.",
+    "german": "Der Bewerber verfügt über exzellente Referenzen, weshalb er zum Vorstellungsgespräch eingeladen wird.",
+    "grammar_note": "The prepositional verb 'verfügen über' + accusative means 'to possess / have at one's disposal' high-value credentials or resources."
+  },
+  {
+    "id": 57,
+    "english": "We should optimize our workflow to save valuable resources.",
+    "german": "Wir sollten unseren Arbeitsablauf optimieren, um wertvolle Ressourcen einzusparen.",
+    "grammar_note": "Corporate productivity formula. Upgrades simple 'sparen' to 'einsparen' to imply systemic reductions or operational cost efficiencies."
+  },
+  {
+    "id": 58,
+    "english": "The supplier cannot guarantee delivery capacity due to a strike.",
+    "german": "Der Lieferant kann die Lieferfähigkeit aufgrund eines Streiks nicht gewährleisten.",
+    "grammar_note": "B2 logistics and operational risk description. Employs formal components to link labor disputes with operational indicators."
+  },
+  {
+    "id": 59,
+    "english": "I have requested a change to my working hours contract.",
+    "german": "Ich habe eine Änderung meines Arbeitszeitvertrags beantragt.",
+    "grammar_note": "HR negotiation routine. Uses a masculine genitive single noun modification ('meines Arbeitszeitvertrags') to pinpoint the legal target."
+  },
+  {
+    "id": 60,
+    "english": "The new product line has been well received in the target market.",
+    "german": "Die neue Produktlinie ist auf dem Zielmarkt auf sehr positive Resonanz gestoßen.",
+    "grammar_note": "Advanced functional noun-verb idiom: 'auf Resonanz stoßen' (to encounter / meet with a specific reaction or reception)."
+  },
+  {
+    "id": 61,
+    "english": "The event had to be cancelled due to a high number of unexpected cancellations.",
+    "german": "Die Veranstaltung musste aufgrund einer hohen Anzahl unerwarteter Absagen abgesagt werden.",
+    "grammar_note": "Combines dative structures after 'aufgrund einer...' with an embedded plural genitive noun phrase tracking customer actions."
+  },
+  {
+    "id": 62,
+    "english": "I will clarify with the legal department whether this clause is valid.",
+    "german": "Ich werde mit der Rechtsabteilung klären, ob diese Klausel rechtlich zulässig ist.",
+    "grammar_note": "Corporate compliance validation. 'Klausel' (contractual clause) and 'rechtlich zulässig' (legally permissible / valid under law)."
+  },
+  {
+    "id": 63,
+    "english": "The candidate matches the requirement profile perfectly because of his expertise.",
+    "german": "Der Kandidat entspricht aufgrund seiner Fachkompetenz vollkommen dem Anforderungsprofil.",
+    "grammar_note": "The verb 'entsprechen' requires a dative object ('dem Anforderungsprofil'), separated inline by professional qualifications expressions."
+  },
+  {
+    "id": 64,
+    "english": "The company places great emphasis on sustainable manufacturing methods.",
+    "german": "Das Unternehmen legt großen Wert auf nachhaltige Herstellungsmethoden.",
+    "grammar_note": "Industrial strategy definition using fixed idiom 'Wert legen auf' targeting technical plural accusative objects."
+  },
+  {
+    "id": 65,
+    "english": "The technical documentation is detailed enough to avoid misunderstandings.",
+    "german": "Die technische Dokumentation ist präzise genug, um Missverständnisse auszuschließen.",
+    "grammar_note": "Upgrades simple 'vermeiden' to 'ausschließen' (to completely rule out / exclude) to convey technical accuracy parameters."
+  },
+  {
+    "id": 66,
+    "english": "The storage of personal data requires the express consent of the user.",
+    "german": "Die Speicherung personenbezogener Daten bedarf der ausdrücklichen Einwilligung des Nutzers.",
+    "grammar_note": "Data protection laws register. The verb 'bedürfen' requires a genitive object ('der ausdrücklichen Einwilligung') to show formal necessity."
+  },
+  {
+    "id": 71,
+    "english": "The negotiation led to an outcome that is acceptable to both parties.",
+    "german": "Die Verhandlung führte zu einem Ergebnis, das für beide Parteien akzeptabel ist.",
+    "grammar_note": "Strategic corporate communication framing legal compromise boundaries using professional terms ('Parteien')."
+  },
+  {
+    "id": 72,
+    "english": "I am looking forward to working with your experienced team on this project.",
+    "german": "Ich freue mich auf die Zusammenarbeit mit Ihrem erfahrenen Team bei diesem Projekt.",
+    "grammar_note": "Stacks case-dependent prepositions: 'auf' + accusative for anticipation, mixed with 'mit' + dative tracking the team element."
+  },
+  {
+    "id": 73,
+    "english": "The new technology makes it possible to increase energy efficiency significantly.",
+    "german": "Die neue Technologie ermöglicht es, die Energieeffizienz erheblich zu steigern.",
+    "grammar_note": "Environmental/Technical optimization statement setting up a transitive 'es' dummy structural bridge into an active infinitive."
+  },
+  {
+    "id": 74,
+    "english": "The delivery terms must be adjusted dynamically to the market situation.",
+    "german": "Die Lieferbedingungen müssen der Marktsituation dynamisch angepasst werden.",
+    "grammar_note": "Logistics flexibility tracking. The verb 'anpassen' tracks its reference anchor point via a direct dative relationship ('der Marktsituation')."
+  },
+  {
+    "id": 75,
+    "english": "The customer was not satisfied with the proposed solution under any circumstances.",
+    "german": "Der Kunde war mit dem Lösungsvorschlag unter keinen Umständen einverstanden.",
+    "grammar_note": "Advanced negotiation layout featuring the absolute restrictive idiom 'unter keinen Umständen' (under no circumstances)."
+  },
+  {
+    "id": 76,
+    "english": "The software update caused an unexpected incompatibility with the existing database.",
+    "german": "Das Software-Update verursachte eine unerwartete Inkompatibilität mit der bestehenden Datenbank.",
+    "grammar_note": "IT infrastructure tracking vocabulary detailing architectural errors using precise technical loan words."
+  },
+  {
+    "id": 77,
+    "english": "The project can only be completed successfully if everyone pulls in the same direction.",
+    "german": "Das Projekt kann nur erfolgreich abgeschlossen werden, wenn alle an einem Strang ziehen.",
+    "grammar_note": "Nests the highly common B2 professional workplace idiomatic collaboration phrase 'an einem Strang ziehen' (to pull together / cooperate)."
+  },
+  {
+    "id": 78,
+    "english": "I have to inform you that your contract will not be extended.",
+    "german": "Ich muss Ihnen mitteilen, dass Ihr Arbeitsvertrag nicht verlängert wird.",
+    "grammar_note": "Formal HR cancellation notice utilizing a passive voice closure sequence to preserve objective professional distance."
+  },
+  {
+    "id": 79,
+    "english": "The research team made a breakthrough discovery that could change everything.",
+    "german": "Das Forschungsteam hat eine bahnbrechende Entdeckung gemacht, die alles verändern könnte.",
+    "grammar_note": "Science communication register employing the key descriptive qualifier 'bahnbrechend' (groundbreaking/revolutionary)."
+  },
+  {
+    "id": 80,
+    "english": "The marketing strategy aims to tap into new customer segments abroad.",
+    "german": "Die Marketingstrategie zielt darauf ab, neue Kundensegmente im Ausland zu erschließen.",
+    "grammar_note": "The prepositional verb 'abzielen auf' + 'darauf' governs a strategic expansion infinitive centered on 'erschließen' (to tap into / develop)."
+  },
+  {
+    "id": 81,
+    "english": "The employee was warned because he leaked company secrets.",
+    "german": "Der Mitarbeiter wurde abgemahnt, weil er Betriebsgeheimnisse an die Öffentlichkeit weitergegeben hatte.",
+    "grammar_note": "Combines strict corporate legal terminology with a past perfect causal reflection layer ('weitergegeben hatte')."
+  },
+  {
+    "id": 82,
+    "english": "The presentation format should be redesigned to achieve a higher impact.",
+    "german": "Das Präsentationsformat sollte überarbeitet werden, um eine größere Wirkung zu erzielen.",
+    "grammar_note": "Corporate messaging strategy utilizing modal passives alongside formal performance vocabulary ('Wirkung erzielen')."
+  },
+  {
+    "id": 83,
+    "english": "I am convinced that flat hierarchies promote innovation capacity within a company.",
+    "german": "Ich bin davon überzeugt, dass flache Hierarchien die Innovationskraft innerhalb eines Unternehmens fördern.",
+    "grammar_note": "Management philosophy tracking. Integrates a 'dass' clause containing an abstract internal genitive constraint layout."
+  },
+  {
+    "id": 84,
+    "english": "The project manager decided to increase the budget for safety checks.",
+    "german": "Der Projektleiter hat sich dazu entschlossen, das Budget für Sicherheitsprüfungen aufzustocken.",
+    "grammar_note": "Upgrades 'erhöhen' to financial B2 'aufstocken' (to top up / increase funding allocations) inside a split infinitive."
+  },
+  {
+    "id": 85,
+    "english": "The customer requested immediate cancellation of the subscription due to poor service.",
+    "german": "Der Kunde forderte aufgrund des mangelhaften Service die sofortige Kündigung des Abonnements.",
+    "grammar_note": "Consumer conflict handling. Organizes parallel genitive blocks to define causation and target items ('des Service... des Abonnements')."
+  },
+  {
+    "id": 86,
+    "english": "We must ensure that all processes meet international environmental standards.",
+    "german": "Wir müssen gewährleisten, dass sämtliche Prozesse den internationalen Umweltstandards entsprechen.",
+    "grammar_note": "Regulatory tracking. The verb 'entsprechen' requires a dative object target ('den internationalen Umweltstandards' plural dative)."
+  },
+  {
+    "id": 87,
+    "english": "The dynamic market development forces us to constantly update our business plan.",
+    "german": "Die dynamische Marktentwicklung zwingt uns dazu, unseren Businessplan laufend zu aktualisieren.",
+    "grammar_note": "The causative structure 'zwingen zu' utilizes placeholder 'dazu' to capture a required professional optimization routine."
+  },
+  {
+    "id": 88,
+    "english": "The company sets itself apart from competitors through excellent customer service.",
+    "german": "Das Unternehmen hebt sich durch einen exzellenten Kundenservice von den Mitbewerbern ab.",
+    "grammar_note": "Strategic branding. The separable reflexive verb 'sich abheben von' maps out market positioning attributes clearly."
+  },
+  {
+    "id": 89,
+    "english": "The documentation is so detailed that even complex processes are easily understandable.",
+    "german": "Die Dokumentation ist so detailliert, dass selbst komplexe Abläufe leicht nachvollziehbar sind.",
+    "grammar_note": "Upgrades basic 'verständlich' to analytical B2 'nachvollziehbar' (comprehensible / transparently traceable in structure)."
+  },
+  {
+    "id": 90,
+    "english": "I would like to look for a new challenge after completing this project.",
+    "german": "Ich möchte mich nach dem Abschluss dieses Projekts nach einer neuen Herausforderung umsehen.",
+    "grammar_note": "Career change terminology. The reflexive separable verb 'sich umsehen nach' commands a dative case focus search."
+  },
+  {
+    "id": 91,
+    "english": "The legal department must check whether this contract clause is legally binding.",
+    "german": "Die Rechtsabteilung muss prüfen, ob diese Vertragsklausel rechtsverbindlich ist.",
+    "grammar_note": "Corporate risk assessment tracking specialized legal definitions ('rechtsverbindlich' = legally binding/enforceable)."
+  },
+  {
+    "id": 92,
+    "english": "The dynamic growth of the sector leads to an increased demand for specialists.",
+    "german": "Das dynamische Wachstum der Branche führt zu einem erhöhten Bedarf an Fachkräften.",
+    "grammar_note": "Labor economics tracking. The fixed phrase 'Bedarf an' requires a dative material component focus ('Fachkräften' plural dative)."
+  },
+  {
+    "id": 93,
+    "english": "The manager rejected the proposal without giving detailed reasons.",
+    "german": "Der Manager lehnte den Vorschlag ab, ohne detaillierte Gründe anzugeben.",
+    "grammar_note": "An 'ohne... zu' infinitive block ruling a formal administrative verb ('angeben' = to state/declare official reasons)."
+  },
+  {
+    "id": 94,
+    "english": "The security regulations are to be checked regularly by an external expert.",
+    "german": "Die Sicherheitsvorschriften sind regelmäßig durch einen externen Sachverständigen zu überprüfen.",
+    "grammar_note": "Features 'sein + zu + infinitive' as an alternative passive obligation alongside weak noun tracking ('Sachverständigen')."
+  },
+  {
+    "id": 95,
+    "english": "The server failure caused an unexpected data loss, which disrupts work operations.",
+    "german": "Der Serverausfall verursachte einen unerwarteten Datenverlust, was den Arbeitsbetrieb beeinträchtigt.",
+    "grammar_note": "IT incident report register. Uses 'beeinträchtigen' (to adversely affect / impair) instead of simple negative verbs."
+  },
+  {
+    "id": 96,
+    "english": "We had to adjust our sales forecast downward due to the crisis.",
+    "german": "Wir mussten unsere Umsatzprognose aufgrund der Krise nach unten korrigieren.",
+    "grammar_note": "Financial optimization terminology: 'Umsatzprognose' (sales forecast) and idiom 'nach unten korrigieren' (to adjust downward)."
+  },
+  {
+    "id": 97,
+    "english": "I prefer working in an innovative environment that offers space for personal development.",
+    "german": "Ich arbeite bevorzugt in einem innovativen Umfeld, das Raum für persönliche Entfaltung bietet.",
+    "grammar_note": "HR/Motivation vocabulary: 'Raum für persönliche Entfaltung' (space/scope for individual potential and self-actualization)."
+  },
+  {
+    "id": 98,
+    "english": "The project was approved just as we were facing immense budget cutbacks.",
+    "german": "Das Projekt wurde genehmigt, als wir uns immensen Budgetkürzungen gegenübersahen.",
+    "grammar_note": "Reflexive past prepositional verb layout 'sich gegenübersehen' + dative to express confronting systemic obstacles."
+  },
+  {
+    "id": 101,
+    "english": "The unexpected market crash can be traced back to speculative bubbles, according to financial experts.",
+    "german": "Der unerwartete Markteinbruch lässt sich Finanzexperten zufolge auf spekulative Blasen zurückführen.",
+    "grammar_note": "Combines alternative passive 'lässt sich zurückführen auf' with post-positioned dative indicator 'zufolge' (according to)."
+  },
+  {
+    "id": 102,
+    "english": "The automated system triggers an alarm as soon as unauthorized access is detected.",
+    "german": "Das automatisierte System löst einen Alarm aus, sobald ein unbefugter Zugriff registriert wird.",
+    "grammar_note": "Cybersecurity compliance tracking. 'Unbefugter Zugriff' (unauthorized access) handles exact masculine active subjects."
+  },
+  {
+    "id": 103,
+    "english": "I have to share the responsibility for the failure of the campaign with the team leader.",
+    "german": "Ich muss mir die Verantwortung für das Scheitern der Kampagne mit der Teamleitung teilen.",
+    "grammar_note": "Abstract corporate accountability tracking. Nominalizes the failure verb into a genitive structure ('das Scheitern der Kampagne')."
+  },
+  {
+    "id": 104,
+    "english": "He acts as if he had comprehensive knowledge in the area of artificial intelligence.",
+    "german": "Er tut so, als ob er über umfassende Kenntnisse im Bereich der künstlichen Intelligenz verfügen würde.",
+    "grammar_note": "Unites 'als ob' imaginary syntax with formal prepositional verb requirements ('verfügen über' + accusative in Konjunktiv II)."
+  },
+  {
+    "id": 105,
+    "english": "I am forced to exchange this defective device to avoid data losses.",
+    "german": "Ich bin gezwungen, dieses defekte Gerät umzutauschen, um Datenverlusten vorzubeugen.",
+    "grammar_note": "The verb 'vorbeugen' (to prevent / guard against) requires a dative object target assignment inside the purpose clause."
+  },
+  {
+    "id": 106,
+    "english": "The production plant is currently out of operation due to urgent maintenance work.",
+    "german": "Die Produktionsanlage ist wegen dringender Wartungsarbeiten vorübergehend außer Betrieb gesetzt.",
+    "grammar_note": "Industrial reporting. Uses the formal situational transform idiom 'außer Betrieb setzen' (to decommission / take offline)."
+  },
+  {
+    "id": 107,
+    "english": "I am registering for the advanced seminar regarding agile project management methods.",
+    "german": "Ich melde mich für das Fortgeschrittenenseminar über agile Projektmanagementmethoden an.",
+    "grammar_note": "Upgrades standard terminology to modern organizational frameworks ('agile Projektmanagementmethoden' plural accusative)."
+  },
+  {
+    "id": 108,
+    "english": "We arrived at the conference venue early and handled the registration immediately.",
+    "german": "Wir sind frühzeitig am Tagungsort eingetroffen und haben die Registrierung unverzüglich abgewickelt.",
+    "grammar_note": "Upgrades basic verbs to administrative standard processing selectors: 'abwickeln' (to handle/execute a formal transaction)."
+  },
+  {
+    "id": 109,
+    "english": "I have an urgent concern that requires immediate discussion with the management.",
+    "german": "Ich habe ein dringendes Anliegen, das einer sofortigen Absprache mit der Geschäftsführung bedarf.",
+    "grammar_note": "The relative clause centers on the genitive-governing verb 'bedürfen' to convey strict professional necessity."
+  },
+  {
+    "id": 110,
+    "english": "The final report must be finalized by Friday without exception to ensure compliance.",
+    "german": "Der Abschlussbericht muss bis Freitag ausnahmslos fertiggestellt sein, um die Compliance zu gewährleisten.",
+    "grammar_note": "Modern international corporate governance framework using loan words ('Compliance') and absolute adverbs ('ausnahmslos')."
+  },
+  {
+    "id": 111,
+    "english": "It doesn't matter to me at all if we postpone the publication date.",
+    "german": "Es fällt mir überhaupt nicht ins Gewicht, wenn wir den Veröffentlichungstermin verschieben.",
+    "grammar_note": "Substitutes simple idioms with the abstract B2 analytical expression 'ins Gewicht fallen' (to carry weight / matter significantly)."
+  },
+  {
+    "id": 112,
+    "english": "The terms of delivery were modified unilaterally by the logistics service provider.",
+    "german": "Die Lieferbedingungen wurden von dem Logistikdienstleister einseitig abgeändert.",
+    "grammar_note": "Commercial law tracking. 'Einseitig abgeändert' (unilaterally modified/amended) maps out asymmetric corporate actions."
+  },
+  {
+    "id": 113,
+    "english": "I am contractually obligated not to disclose internal company data to competitive companies.",
+    "german": "Ich bin vertraglich dazu verpflichtet, interne Unternehmensdaten nicht an Konkurrenzunternehmen weiterzuleiten.",
+    "grammar_note": "Data compliance and NDAs. The passive state configuration forces a long compound legal infinitive clause composition."
+  },
+  {
+    "id": 114,
+    "english": "Could you please recommend a specialized lawyer who focuses on corporate law?",
+    "german": "Könnten Sie mir bitte einen spezialisierten Anwalt empfehlen, der auf Gesellschaftsrecht fokussiert ist?",
+    "grammar_note": "Corporate structures register: 'Gesellschaftsrecht' (corporate/company law) governed via a passive conditional state relative clause."
+  },
+  {
+    "id": 115,
+    "english": "The unstable internet connection prevents me from completing the upload successfully.",
+    "german": "Die instabile Internetverbindung hindert mich daran, den Upload erfolgreich zu beenden.",
+    "grammar_note": "The operational verb 'hindern an' uses the dative placeholder particle alignment 'daran' to lock the upcoming functional infinitive."
+  },
+  {
+    "id": 116,
+    "english": "I have transferred the outstanding invoice balance to your business account.",
+    "german": "Ich habe den ausstehenden Rechnungsbetrag auf Ihr Geschäftskonto überwiesen.",
+    "grammar_note": "B2 financial auditing. Replaces basic nouns with 'der ausstehende Rechnungsbetrag' (the outstanding/unpaid invoice balance)."
+  },
+  {
+    "id": 117,
+    "english": "The open-air event took place successfully despite adverse weather conditions.",
+    "german": "Die Open-Air-Veranstaltung fand trotz widriger Witterungsverhältnisse erfolgreich statt.",
+    "grammar_note": "High-register weather description: 'widrige Witterungsverhältnisse' (adverse meteorological conditions) in the genitive plural."
+  },
+  {
+    "id": 118,
+    "english": "I require a verifiable proof of purchase to claim these expenses internally.",
+    "german": "Ich benötige einen nachweisbaren Kaufbeleg, um diese Ausgaben intern geltend zu machen.",
+    "grammar_note": "Corporate accounting protocols. 'Nachweisbarer Kaufbeleg' (verifiable proof of purchase) tracking formal claims idioms."
+  },
+  {
+    "id": 119,
+    "english": "The department head apologized for his emotional reaction during the conflict talk.",
+    "german": "Der Abteilungsleiter entschuldigte sich für seine emotionale Reaktion während des Konfliktgesprächs.",
+    "grammar_note": "HR and office mediation vocabulary. Employs complex compound target definitions ('Konfliktgespräch' genitive neuter)."
+  },
+  {
+    "id": 120,
+    "english": "The international trade fair takes place biannually on the exhibition grounds.",
+    "german": "Die internationale Fachmesse findet alle zwei Jahre auf dem Messegelände statt.",
+    "grammar_note": "Industrial marketing terms: 'Fachmesse' (specialized trade exhibition) organized around strict temporal interval adverbs."
+  },
+  {
+    "id": 121,
+    "english": "I am not entirely sure whether the contract has already been legally signed.",
+    "german": "Ich bin mir nicht vollkommen sicher, ob der Vertrag bereits rechtskräftig unterzeichnet wurde.",
+    "grammar_note": "Legal validity tracking. Replaces simple past with formal passive perfect status markers ('rechtskräftig unterzeichnet wurde')."
+  },
+  {
+    "id": 122,
+    "english": "The documentation outlines comprehensively how to service the complex technical equipment.",
+    "german": "Die Dokumentation beschreibt umfassend, wie man die komplexen technischen Anlagen wartet.",
+    "grammar_note": "Engineering and infrastructure management vocabulary: 'Anlagen' (industrial plants/systems) and 'umfassend' (comprehensively)."
+  },
+  {
+    "id": 123,
+    "english": "I have decided to change my career path and face new professional challenges.",
+    "german": "Ich habe mich dazu entschlossen, meinen Karriereweg zu ändern und mich neuen beruflichen Herausforderungen zu stellen.",
+    "grammar_note": "The reflexive phrase 'sich einer Herausforderung stellen' means to face/confront a challenge, requiring a dative object target."
+  },
+  {
+    "id": 124,
+    "english": "The network architecture is extremely vulnerable here inside the main server room.",
+    "german": "Die Netzwerkarchitektur ist hier drinnen im Hauptserverraum äußerst störungsanfällig.",
+    "grammar_note": "Upgrades technical characterization descriptions to precision B2 compound adjectives: 'störungsanfällig' (susceptible to faults/interference)."
+  },
+  {
+    "id": 125,
+    "english": "We should arrange an urgent video conference to resolve the technical discrepancy.",
+    "german": "Wir sollten eine dringende Videokonferenz vereinbaren, um die technische Diskrepanz zu klären.",
+    "grammar_note": "Analytical problem-solving register replacing simple 'Problem' with specialized terms ('technische Diskrepanz')."
+  },
+  {
+    "id": 126,
+    "english": "I would like to terminate the business relationship with your company with immediate effect.",
+    "german": "Ich möchte die Geschäftsbeziehung mit Ihrem Unternehmen mit sofortiger Wirkung beenden.",
+    "grammar_note": "Formal commercial termination notice anchoring the business vocabulary block within legal timing parameters."
+  },
+  {
+    "id": 127,
+    "english": "The delivery of the components was delayed due to unpredictable customs clearance issues.",
+    "german": "Die Auslieferung der Komponenten hat sich wegen unvorhersehbarer Probleme bei der Zollabwicklung verzögert.",
+    "grammar_note": "Global supply chain logistics tracking complex plural genitives ('unvorhersehbarer Probleme') alongside technical workflow descriptions."
+  },
+  {
+    "id": 128,
+    "english": "Could you please verify whether the outstanding total amount corresponds to the agreement?",
+    "german": "Könnten Sie bitte überprüfen, ob der ausstehende Gesamtbetrag der Vereinbarung entspricht.",
+    "grammar_note": "Financial checking routine pairing an indirect conditional clause with a dative-governing structural closeness verb."
+  },
+  {
+    "id": 129,
+    "english": "I attach great importance to a clean corporate identity and sustainable values.",
+    "german": "Ich lege großen Wert auf eine eindeutige Corporate Identity und nachhaltige Unternehmenswerte.",
+    "grammar_note": "Modern management language seamlessly integrating international terminology into standard accusative-driven idiomatic blocks."
+  },
+  {
+    "id": 130,
+    "english": "He assured me that the trade secrets would be protected under strict confidentiality.",
+    "german": "Er hat mir zugesichert, dass die Betriebsgeheimnisse unter strenger Geheimhaltung geschützt werden.",
+    "german_thinking": "Corporate security operations. Places formal descriptions into a continuous present passive structure ('geschützt werden')."
+  },
+  {
+    "id": 131,
+    "english": "The item is currently out of stock because the production was completely ceased.",
+    "german": "Der Artikel ist momentan nicht verfügbar, da die Produktion vollständig eingestellt wurde.",
+    "grammar_note": "Inventory control tracking. Uses 'eingestellt wurde' to document the complete past termination of industrial output."
+  },
+  {
+    "id": 132,
+    "english": "I am proud of the fact that we finalized the demanding layout ahead of schedule.",
+    "german": "Ich bin stolz darauf, dass wir das anspruchsvolle Layout vor dem geplanten Zeitplan fertiggestellt haben.",
+    "grammar_note": "Upgrades standard descriptions to 'anspruchsvoll' (demanding / highly sophisticated) inside a coordinated past completion frame."
+  },
+  {
+    "id": 133,
+    "english": "Please remember to attach the updated general terms and conditions to the email response.",
+    "german": "Bitte denken Sie daran, die aktualisierten Allgemeinen Geschäftsbedingungen der E-Mail-Antwort beizufügen.",
+    "grammar_note": "E-Commerce legal standards. The verb 'beifügen' requires a dative reference anchor point ('der E-Mail-Antwort')."
+  },
+  {
+    "id": 134,
+    "english": "The ventilation architecture activates automatically as soon as emissions exceed critical values.",
+    "german": "Die Lüftungsarchitektur schaltet sich automatisch ein, sobald die Emissionen kritische Werte überschreiten.",
+    "grammar_note": "Environmental systems automation monitoring using precision vocabulary components wrapped inside a 'sobald' clause structure."
+  },
+  {
+    "id": 135,
+    "english": "I would like to trade my used vehicle for an electric model to reduce emissions.",
+    "german": "Ich möchte mein Gebrauchtfahrzeug gegen ein Elektromodell eintauschen, um Emissionen zu senken.",
+    "grammar_note": "Sustainability and retail logic statement using exact transportation terminology ('Gebrauchtfahrzeug' = pre-owned vehicle)."
+  },
+  {
+    "id": 136,
+    "english": "We must limit our emissions drastically to meet statutory environmental requirements.",
+    "german": "Wir müssen unsere Emissionen drastisch senken, um die gesetzlichen Umweltauflagen zu erfüllen.",
+    "grammar_note": "Compliance check wording: 'gesetzliche Umweltauflagen erfüllen' means to satisfy statutory environmental regulations or conditions."
+  },
+  {
+    "id": 137,
+    "english": "The doctor checked my health status and recommended a radical change in diet.",
+    "german": "Der Arzt hat meinen Gesundheitszustand überprüft und mir zu einer radikalen Ernährungsumstellung geraten.",
+    "grammar_note": "Medical consultancy syntax. The composite noun 'Ernährungsumstellung' captures an entire therapeutic lifestyle modification sequence."
+  },
+  {
+    "id": 138,
+    "english": "The submission deadline for the application documents was extended by two weeks due to the high demand.",
+    "german": "Die Abgabefrist für die Bewerbungsunterlagen wurde aufgrund der hohen Nachfrage um zwei Wochen verlängert.",
+    "grammar_note": "Combines passive narrative structuring ('wurde verlängert') with a precise causal genitive and mathematical dimensional shift ('um zwei Wochen')."
+  },
+  {
+    "id": 139,
+    "english": "I am seeking a long-term commercial lease that contains a separate warehouse space option.",
+    "german": "Ich suche ein langfristiges Gewerbemietverhältnis, das eine separate Lagerflächenoption beinhaltet.",
+    "grammar_note": "Commercial real estate tracking using highly advanced structural compound nouns ('Gewerbemietverhältnis' = commercial lease)."
+  },
+  {
+    "id": 140,
+    "english": "The negotiation was aborted because an unbridgeable conflict had broken out among the partners.",
+    "german": "Die Verhandlung wurde abgebrochen, weil ein unüberbrückbarer Konflikt unter den Partnern ausgebrochen war.",
+    "grammar_note": "Strategic communication crisis mapping. Uses the advanced absolute descriptive adjective 'unüberbrückbar' (unbridgeable/irreconcilable)."
+  },
+  {
+    "id": 141,
+    "english": "I intend to secure my financial independent future by investing in equity funds early.",
+    "german": "Ich habe vor, meine finanzielle Unabhängigkeit abzusichern, indem ich frühzeitig in Aktienfonds investiere.",
+    "grammar_note": "Asset management and modern financial planning language tracking systematic implementation through 'indem'."
+  },
+  {
+    "id": 142,
+    "english": "The emergency escape route was explicitly marked with clearly visible warning indicators.",
+    "german": "Der Notfluchtweg war explizit mit deutlich sichtbaren Warnhinweisen gekennzeichnet.",
+    "grammar_note": "Facility management compliance text utilizing a state passive definition framework backed by complex dative multi-adjective descriptions."
+  },
+  {
+    "id": 143,
+    "english": "I cannot download this attachment because the file format is completely unsupported by our system.",
+    "german": "Ich kann diesen Anhang nicht herunterladen, da das Dateiformat von unserem System überhaupt nicht unterstützt wird.",
+    "grammar_note": "Corporate IT workflow reporting using a structural passive representation ('wird von unserem System unterstützt') to denote technical limits."
+  },
+  {
+    "id": 144,
+    "english": "We are evaluating various methods to minimize our fixed operational costs permanently.",
+    "german": "Wir prüfen verschiedene Methoden, um unsere laufenden Betriebskosten dauerhaft zu minimieren.",
+    "grammar_note": "Corporate financial management strategy upgrading common verbs to analytical evaluation expressions ('prüfen' = to examine/evaluate)."
+  },
+  {
+    "id": 145,
+    "english": "The invoice total balance contains all applicable local VAT rates.",
+    "german": "Der Rechnungsendbetrag enthält alle anfallenden lokalen Mehrwertsteuersätze.",
+    "grammar_note": "Tax and financial auditing terminology: 'Rechnungsendbetrag' (final invoice balance total) and 'Mehrwertsteuersätze' (VAT rates)."
+  },
+  {
+    "id": 146,
+    "english": "I filed the comprehensive corporate tax return before the statutory deadline expired.",
+    "german": "Ich habe die umfassende Körperschaftssteuererklärung eingereicht, bevor die gesetzliche Frist abgelaufen war.",
+    "grammar_note": "Advanced fiscal administration operations language: 'Körperschaftssteuererklärung' (corporate tax return submission process)."
+  },
+  {
+    "id": 147,
+    "english": "The automated security system activates as soon as a thermal movement is registered inside the restricted zone.",
+    "german": "Das automatisierte Sicherheitssystem wird aktiviert, sobald eine thermische Bewegung in der Sperrzone registriert wird.",
+    "grammar_note": "Industrial object tracking. Coordinated passive states mapping security architecture variables via specialized environmental layout nouns."
+  },
+  {
+    "id": 148,
+    "english": "I must have my credit card blocked immediately because I misplaced my wallet containing sensitive data.",
+    "german": "Ich muss meine Kreditkarte unverzüglich sperren lassen, da ich meinen Geldbeutel mit sensiblen Daten verlegt habe.",
+    "grammar_note": "Combines causative verbal construction 'sperren lassen' with high-register adverbs and precise behavioral error markers ('verlegt' = misplaced)."
+  },
+  {
+    "id": 149,
+    "english": "He analyzed precisely how the entire corporate workflow architecture can be sustainably optimized.",
+    "german": "Er hat präzise analysiert, wie die gesamte betriebliche Arbeitsablaufarchitektur nachhaltig optimiert werden kann.",
+    "grammar_note": "Management consultancy assessment syntax. Nests a multi-layered passive modal possibility evaluation inside an indirect question frame."
+  },
+  {
+    "id": 150,
+    "english": "I would like to take advantage of this unique opportunity to express my gratitude for your long-standing support.",
+    "german": "Ich möchte diese einzigartige Gelegenheit nutzen, um Ihnen meinen Dank für Ihre langjährige Unterstützung auszusprechen.",
+    "grammar_note": "The definitive executive closing oration formula. Upgrades basic structures to professional gratitude delivery mechanisms ('Dank aussprechen')."
+  },
+{
+    "id": 151,
+    "english": "The results of the study suggest that sleep deprivation significantly affects concentration.",
+    "german": "Die Ergebnisse der Studie deuten darauf hin, dass Schlafmangel die Konzentration erheblich beeinträchtigt.",
+    "grammar_note": "'Darauf hindeuten' is a two-part verb split across the sentence. 'Dass' clause sends verb to end. 'Erheblich' = significantly — a formal adverb."
+  },
+  {
+    "id": 152,
+    "english": "Had I known about the problem earlier, I could have prevented it.",
+    "german": "Hätte ich früher von dem Problem gewusst, hätte ich es verhindern können.",
+    "grammar_note": "Inverted conditional — no 'wenn' needed. Starting with 'Hätte' signals the condition. Double infinitive 'verhindern können' at the end."
+  },
+  {
+    "id": 153,
+    "english": "The proposal was rejected by the committee without further discussion.",
+    "german": "Der Vorschlag wurde vom Ausschuss ohne weitere Diskussion abgelehnt.",
+    "grammar_note": "Passive voice: 'wurde + past participle'. 'Vom' = 'von dem' (by the). Separable verb 'abgelehnt' goes to the end."
+  },
+  {
+    "id": 154,
+    "english": "Regardless of the consequences, she stood by her decision.",
+    "german": "Ungeachtet der Konsequenzen stand sie zu ihrer Entscheidung.",
+    "grammar_note": "'Ungeachtet' takes genitive. 'Zu etwas stehen' = to stand by something. Inversion after fronted phrase puts verb before subject."
+  },
+  {
+    "id": 155,
+    "english": "The more you practice, the better you get.",
+    "german": "Je mehr man übt, desto besser wird man.",
+    "grammar_note": "'Je... desto' = the... the. 'Desto' clause always has verb-second order. 'Man' is the impersonal pronoun — like 'one' in formal English."
+  },
+  {
+    "id": 156,
+    "english": "It is widely acknowledged that renewable energy is the future.",
+    "german": "Es wird allgemein anerkannt, dass erneuerbare Energien die Zukunft sind.",
+    "grammar_note": "Impersonal passive: 'Es wird + past participle'. Very common in formal German writing. 'Dass' clause follows with verb at end."
+  },
+  {
+    "id": 157,
+    "english": "He spoke as though he knew everything.",
+    "german": "Er sprach, als ob er alles wüsste.",
+    "grammar_note": "'Als ob' (as though) triggers Konjunktiv II — 'wüsste' not 'weiß'. Also possible: 'als wüsste er alles' dropping 'ob'."
+  },
+  {
+    "id": 158,
+    "english": "The law came into effect despite widespread opposition.",
+    "german": "Das Gesetz trat trotz breiten Widerstands in Kraft.",
+    "grammar_note": "'In Kraft treten' = to come into effect (fixed phrase). 'Trotz' + genitive: 'breiten Widerstands'. Separable verb 'trat... in Kraft' split around the middle."
+  }
+]

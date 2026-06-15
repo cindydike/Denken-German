@@ -1,0 +1,902 @@
+[
+{
+    "id": 1,
+    "english": "I am staying inside today because the weather is too bad.",
+    "german": "Ich bleibe heute drinnen, weil das Wetter zu schlecht ist.",
+    "grammar_note": "A2 complexity requires joining clauses. The subordinating conjunction 'weil' (because) sends the conjugated verb 'ist' to the very end of the sentence."
+  },
+  {
+    "id": 2,
+    "english": "Could you please tell me where the train station is?",
+    "german": "Könnten Sie mir bitte sagen, wo der Bahnhof ist?",
+    "grammar_note": "An indirect question. 'Könnten' is the polite subjunctive (Konjunktiv II). The question word 'wo' introduces a dependent clause, pushing 'ist' to the end."
+  },
+  {
+    "id": 3,
+    "english": "I wanted to go shopping, but the stores were already closed.",
+    "german": "Ich wollte einkaufen gehen, aber die Geschäfte waren schon geschlossen.",
+    "grammar_note": "Uses the simple past (Präteritum) of a modal verb 'wollte'. The coordinating conjunction 'aber' doesn't affect word order (position zero)."
+  },
+  {
+    "id": 4,
+    "english": "If I have time tomorrow, I will help you move.",
+    "german": "Wenn ich morgen Zeit habe, helfe ich dir beim Umzug.",
+    "grammar_note": "A conditional 'wenn' clause. Because the entire 'wenn' clause acts as position 1 of the main sentence, the main verb 'helfe' must immediately follow the comma (position 2)."
+  },
+  {
+    "id": 5,
+    "english": "He told me that he is coming to the party later.",
+    "german": "Er hat mir gesagt, dass er später zur Party kommt.",
+    "grammar_note": "The conjunction 'dass' (that) introduces a subordinate clause, which requires the conjugated verb 'kommt' to sit at the absolute end."
+  },
+  {
+    "id": 6,
+    "english": "I have to clean my apartment before my parents arrive.",
+    "german": "Ich muss meine Wohnung aufräumen, bevor meine Eltern ankommen.",
+    "grammar_note": "'Bevor' is a subordinating conjunction. Note that even though 'ankommen' is a separable verb, it does not separate here because it is sent to the end of a subordinate clause."
+  },
+  {
+    "id": 7,
+    "english": "We didn't go to the beach because it was raining all day.",
+    "german": "Wir sind nicht zum Strand gegangen, weil es den ganzen Tag geregnet hat.",
+    "grammar_note": "Combines a conversational past tense (Perfekt) movement phrase with a 'weil' clause. The auxiliary verb 'hat' goes to the very end, following the past participle."
+  },
+  {
+    "id": 8,
+    "english": "I am looking forward to our trip next week.",
+    "german": "Ich freue mich auf unsere Reise nächste Woche.",
+    "grammar_note": "A2 introduces fixed verb-preposition combinations. 'Sich freuen auf' means looking forward to a future event and requires the accusative case ('unsere Reise')."
+  },
+  {
+    "id": 9,
+    "english": "Can you please turn off the light? I want to sleep.",
+    "german": "Kannst du bitte das Licht ausmachen? Ich möchte schlafen.",
+    "grammar_note": "Separable verb 'ausmachen' (to turn off). Since it is paired with the modal verb 'kannst', the entire infinitive 'ausmachen' goes to the end of the first clause."
+  },
+  {
+    "id": 10,
+    "english": "My brother has found a new job in Hamburg.",
+    "german": "Mein Bruder hat eine neue Stelle in Hamburg gefunden.",
+    "grammar_note": "A2 expanding vocabulary: 'Stelle' or 'Arbeitsplatz' is more natural than the basic A1 'Job'. Adjective ending '-e' for feminine accusative singular."
+  },
+  {
+    "id": 11,
+    "english": "I am interested in your project.",
+    "german": "Ich interessiere mich für Ihr Projekt.",
+    "grammar_note": "The reflexive phrase 'sich interessieren für' takes the accusative case. 'Ihr' is the formal capitalized possessive 'your'."
+  },
+  {
+    "id": 12,
+    "english": "When I was young, I lived in a small village.",
+    "german": "Als ich jung war, habe ich in einem kleinen Dorf gewohnt.",
+    "grammar_note": "Use 'als' for single, continuous events in the past (when I was...). Like 'wenn', the comma causes verb-verb friction ('war, habe')."
+  },
+  {
+    "id": 13,
+    "english": "I think that this movie is very interesting.",
+    "german": "Ich glaube, dass dieser Film sehr interessant ist.",
+    "grammar_note": "An expression of opinion utilizing 'dass' to create an A2 subordinate structure. 'Dieser' is the demonstrative pronoun 'this' in masculine nominative."
+  },
+  {
+    "id": 14,
+    "english": "I'm sorry, but I didn't understand your question.",
+    "german": "Es tut mir leid, aber ich habe deine Frage nicht verstanden.",
+    "grammar_note": "'Verstehen' is an irregular verb whose past participle is 'verstanden' (no 'ge-' prefix because 'ver-' is an inseparable prefix)."
+  },
+  {
+    "id": 15,
+    "english": "Could you pass me the salt, please?",
+    "german": "Könntest du mir bitte das Salz reichen?",
+    "grammar_note": "Using the more sophisticated A2 verb 'reichen' (to pass/reach) instead of just 'geben' (to give). 'Mir' is dative, 'das Salz' is accusative."
+  },
+  {
+    "id": 16,
+    "english": "We need to hurry up or we will miss the bus.",
+    "german": "Wir müssen uns beeilen, sonst verpassen wir den Bus.",
+    "grammar_note": "'Sich beeilen' is a mandatory reflexive verb. 'Sonst' (otherwise) is an adverbial conjunction, meaning the verb 'verpassen' must come immediately after it."
+  },
+  {
+    "id": 17,
+    "english": "I bought this shirt yesterday because it was on sale.",
+    "german": "Ich habe dieses Hemd gestern gekauft, weil es im Angebot war.",
+    "grammar_note": "'Im Angebot' is the idiomatic way to say 'on sale'. The sentence showcases time-manner-place logic combined with a dependent past-tense clause."
+  },
+  {
+    "id": 18,
+    "english": "What did you say? I wasn't listening closely.",
+    "german": "Was hast du gesagt? Ich habe nicht genau zugehört.",
+    "grammar_note": "The verb 'zuhören' means to listen actively/closely, as opposed to 'hören' (just hearing). It is separable, forming 'zugehört' in the past participle."
+  },
+  {
+    "id": 19,
+    "english": "During the vacation, we want to travel to Switzerland.",
+    "german": "In den Flitterwochen/In den Ferien wollen wir in die Schweiz reisen.",
+    "grammar_note": "Switzerland ('die Schweiz') is one of the few countries that carries a mandatory feminine article. Movement 'into' it requires the accusative 'in die'."
+  },
+  {
+    "id": 20,
+    "english": "My friend called me while I was cooking dinner.",
+    "german": "Mein Freund hat mich angerufen, während ich das Abendessen gekocht habe.",
+    "grammar_note": "'Während' (while) is a subordinating conjunction that links two simultaneous past actions and requires the verb 'habe' at the end."
+  },
+  {
+    "id": 21,
+    "english": "I am calling you to invite you to my birthday.",
+    "german": "Ich rufe dich an, um dich zu meinem Geburtstag einzuladen.",
+    "grammar_note": "An 'um... zu' infinitive clause expressing purpose ('in order to'). The 'zu' splits the separable prefix of the verb: 'einzuladen'."
+  },
+  {
+    "id": 22,
+    "english": "You should drink less coffee if you cannot sleep.",
+    "german": "Du solltest weniger Kaffee trinken, wenn du nicht schlafen kannst.",
+    "grammar_note": "'Solltest' is the Konjunktiv II advice form ('should'). The subordinator 'wenn' forces the modal verb 'kannst' to the very end of its clause."
+  },
+  {
+    "id": 23,
+    "english": "The keys are lying on the brown wooden table.",
+    "german": "Die Schlüssel liegen auf dem braunen Holztisch.",
+    "grammar_note": "A2 moves to compound nouns ('Holztisch') and mixed adjective endings. 'Auf' indicates static location here, triggering dative case ('dem braunen')."
+  },
+  {
+    "id": 24,
+    "english": "I am putting the keys on the round table.",
+    "german": "Ich lege die Schlüssel auf den runden Tisch.",
+    "grammar_note": "Contrast with the previous card: 'legen' indicates directional movement, forcing the preposition 'auf' to take the accusative case ('den runden')."
+  },
+  {
+    "id": 25,
+    "english": "Although it was cold, we went for a walk in the park.",
+    "german": "Obwohl es kalt war, sind wir im Park spazieren gegangen.",
+    "grammar_note": "'Obwohl' (although) is a subordinating conjunction. When the subordinate clause starts the sentence, the main clause must start with its verb ('sind')."
+  },
+  {
+    "id": 26,
+    "english": "I don't know yet if I can come tomorrow.",
+    "german": "Ich weiß noch nicht, ob ich morgen kommen kann.",
+    "grammar_note": "'Ob' translates to 'whether/if' in yes-or-no questions. It is a subordinating conjunction, sending the modal verb 'kann' to the end."
+  },
+  {
+    "id": 27,
+    "english": "The doctor advised me to drink more water.",
+    "german": "Der Arzt hat mir geraten, mehr Wasser zu trinken.",
+    "grammar_note": "An infinitive clause with 'zu'. The main verb 'raten' triggers a dative object ('mir') and sets up a description of the advice at the end."
+  },
+  {
+    "id": 28,
+    "english": "We have been living in this beautiful city for five years.",
+    "german": "Wir wohnen seit fünf Jahren in dieser schönen Stadt.",
+    "grammar_note": "'Seit' (since/for) requires present tense in German if the action is ongoing. It also triggers the dative case for 'Jahren' and 'dieser schönen Stadt'."
+  },
+  {
+    "id": 29,
+    "english": "I would like to make an appointment for Tuesday.",
+    "german": "Ich möchte einen Termin für Dienstag vereinbaren.",
+    "grammar_note": "A2 workplace/survival skill: 'einen Termin vereinbaren' is the standard professional collocation for making an appointment."
+  },
+  {
+    "id": 30,
+    "english": "Can you tell me how much this jacket costs?",
+    "german": "Können Sie mir sagen, wie viel diese Jacke kostet?",
+    "grammar_note": "An embedded indirect question. The question phrase 'wie viel' acts as the subordinator, sending 'kostet' to the end."
+  },
+  {
+    "id": 31,
+    "english": "He ran quickly to the bus stop so he wouldn't be late.",
+    "german": "Er ist schnell zur Bushaltestelle gelaufen, damit er sich nicht verspätet.",
+    "grammar_note": "'Damit' (so that / in order that) is used when the subject of the purpose clause is different or explicitly stated, functioning as a subordinator."
+  },
+  {
+    "id": 32,
+    "english": "I am satisfied with my new apartment.",
+    "german": "Ich bin mit meiner neuen Wohnung zufrieden.",
+    "grammar_note": "The adjective 'zufrieden' pairs with the preposition 'mit' (satisfied with). 'Mit' always dictates the dative case."
+  },
+  {
+    "id": 33,
+    "english": "Could you please repeat that slower?",
+    "german": "Könnten Sie das bitte langsamer wiederholen?",
+    "grammar_note": "Uses the comparative form of the adjective 'langsam' ('langsamer') inside a polite conditional request framework."
+  },
+  {
+    "id": 34,
+    "english": "I have to work late today, so I cannot come.",
+    "german": "Ich muss heute lange arbeiten, deshalb kann ich nicht kommen.",
+    "grammar_note": "'Deshalb' (therefore/that's why) is a connector that occupies position 1, forcing the verb 'kann' to sit in position 2 right after it."
+  },
+  {
+    "id": 35,
+    "english": "My laptop broke down last week.",
+    "german": "Mein Laptop ist letzte Woche kaputtgegangen.",
+    "grammar_note": "The compound verb 'kaputtgehen' uses 'sein' as its auxiliary verb in the past tense because it denotes a change of state."
+  },
+  {
+    "id": 36,
+    "english": "I apply for the position as an accountant.",
+    "german": "Ich bewerbe mich um die Stelle als Buchhalter.",
+    "grammar_note": "A2 professional skill: 'Sich bewerben um' (to apply for) is a mandatory reflexive verb taking an accusative object."
+  },
+  {
+    "id": 37,
+    "english": "The dress is pretty, but it doesn't fit me.",
+    "german": "Das Kleid ist schön, aber es passt mir nicht.",
+    "grammar_note": "The verb 'passen' (to fit physically) requires the dative case for the person being fitted ('mir')."
+  },
+  {
+    "id": 38,
+    "english": "We got lost because we didn't have a map with us.",
+    "german": "Wir haben uns verlaufen, weil wir keinen Stadtplan dabei hatten.",
+    "grammar_note": "'Sich verlaufen' is getting lost on foot. 'Dabeihaben' is a compound concept meaning to have something on your person."
+  },
+  {
+    "id": 39,
+    "english": "I am sending you the documents via email.",
+    "german": "Ich schicke Ihnen die Dokumente per E-Mail.",
+    "grammar_note": "Standard business communication sentence. 'Ihnen' is formal dative 'to you'; 'die Dokumente' is plural accusative."
+  },
+  {
+    "id": 40,
+    "english": "He asks his colleague for help.",
+    "german": "Er bittet seinen Kollegen um Hilfe.",
+    "grammar_note": "The verb 'bitten' requires an accusative person ('seinen Kollegen' n-declension) followed by the preposition 'um' + accusative item."
+  },
+  {
+    "id": 41,
+    "english": "I would like to cancel my reservation.",
+    "german": "Ich möchte meine Reservierung stornieren.",
+    "grammar_note": "A2 travel German: Moving beyond 'absagen' to the specific commercial verb 'stornieren' (to cancel a booking/contract)."
+  },
+  {
+    "id": 42,
+    "english": "The car belongs to my older cousin.",
+    "german": "Das Auto gehört meinem älteren Cousin.",
+    "grammar_note": "The verb 'gehören' (to belong to) always triggers the dative case for its owner object ('meinem älteren')."
+  },
+  {
+    "id": 43,
+    "english": "She is proud of her successful daughter.",
+    "german": "Sie ist stolz auf ihre erfolgreiche Tochter.",
+    "grammar_note": "The fixed prepositional adjective phrase 'stolz auf' requires the accusative case. 'Erfolgreiche' shows feminine descriptive ending."
+  },
+  {
+    "id": 44,
+    "english": "Please remember to lock the door.",
+    "german": "Bitte denk daran, die Tür abzuschließen.",
+    "grammar_note": "Uses the da-compound 'daran' to anticipate the infinitive clause. 'Abschließen' is a separable verb split by 'zu'."
+  },
+  {
+    "id": 45,
+    "english": "I prefer drinking tea instead of coffee.",
+    "german": "Ich trinke lieber Tee statt Kaffee.",
+    "grammar_note": "'Lieber' is the comparative form of 'gern', used to show preference. 'Statt' acts as a preposition meaning instead of."
+  },
+  {
+    "id": 46,
+    "english": "The train leaves from platform four.",
+    "german": "Der Zug fährt von Gleis vier ab.",
+    "grammar_note": "The verb is the separable 'abfahren' (to depart). The prefix 'ab' must stand at the very end of the main independent clause."
+  },
+  {
+    "id": 47,
+    "english": "I spent my childhood in Austria.",
+    "german": "Ich habe meine Kindheit in Österreich verbracht.",
+    "grammar_note": "The past tense of 'verbringen' (to spend time) is irregular: 'verbracht'. It does not use 'ge-' because of the 'ver-' prefix."
+  },
+  {
+    "id": 48,
+    "english": "He changed his mind at the last moment.",
+    "german": "Er hat sich im letzten Moment umentschieden.",
+    "grammar_note": "The reflexive verb 'sich umentscheiden' means to alter one's choice or plan. 'Im letzten Moment' utilizes dative masculine time structure."
+  },
+  {
+    "id": 49,
+    "english": "We are getting married next month.",
+    "german": "Wir heiraten nächsten Monat.",
+    "grammar_note": "Time expressions without a preposition ('nächsten Monat') default to the accusative case in German."
+  },
+  {
+    "id": 50,
+    "english": "I need to open a bank account as soon as possible.",
+    "german": "Ich muss so schnell wie möglich ein Bankkonto eröffnen.",
+    "grammar_note": "'So schnell wie möglich' is a fixed idiom for 'as fast as possible'. 'Eröffnen' is a more advanced A2 verb for opening an account/business."
+  },
+  {
+    "id": 51,
+    "english": "The heating isn't working properly in my room.",
+    "german": "Die Heizung funktioniert in meinem Zimmer nicht richtig.",
+    "grammar_note": "'Funktionieren' is preferred over 'arbeiten' for mechanical/digital devices. 'Nicht' negates the adverb 'richtig' and goes late."
+  },
+  {
+    "id": 52,
+    "english": "Can you recommend a good restaurant near here?",
+    "german": "Können Sie ein gutes Restaurant in der Nähe empfehlen?",
+    "grammar_note": "'Empfehlen' is an irregular verb. In this sentence, 'ein gutes Restaurant' carries the mixed adjective endings for a neuter object."
+  },
+  {
+    "id": 53,
+    "english": "I am getting used to the cold weather gradually.",
+    "german": "Ich gewöhne mich langsam an das kalte Wetter.",
+    "grammar_note": "'Sich gewöhnen an' (to get used to) is a reflexive verb combo that dictates the accusative case for the object of your habituation."
+  },
+  {
+    "id": 54,
+    "english": "It is important that you sign the contract today.",
+    "german": "Es ist wichtig, dass Sie den Vertrag heute unterschreiben.",
+    "grammar_note": "A complex construction. 'Es ist wichtig' acts as an introductory framework triggering a subordinate 'dass' clause with the verb placed last."
+  },
+  {
+    "id": 55,
+    "english": "I used to play soccer every week, but now I don't have time.",
+    "german": "Früher habe ich jede Woche Fußball gespielt, aber jetzt habe ich keine Zeit.",
+    "grammar_note": "'Früher' (earlier/used to) sits in position 1, forcing inversion with the auxiliary verb 'habe'. This creates a clear past/present contrast."
+  },
+  {
+    "id": 56,
+    "english": "The apartment is located on the third floor.",
+    "german": "Die Wohnung liegt im dritten Stock.",
+    "grammar_note": "Germans use ordinal numbers for floors, which require adjective declension after the hidden dative preposition 'im' (in dem)."
+  },
+  {
+    "id": 57,
+    "english": "I would like to complain about the loud noise.",
+    "german": "Ich möchte mich über den lauten Lärm beschweren.",
+    "grammar_note": "The reflexive verb 'sich beschweren über' (to complain about) demands an accusative target ('den lauten Lärm')."
+  },
+  {
+    "id": 58,
+    "english": "She came home late because she missed the last tram.",
+    "german": "Sie ist spät nach Hause gekommen, weil sie die letzte Straßenbahn verpasst hat.",
+    "grammar_note": "'Straßenbahn' is an A2 level city vocabulary word. The 'weil' structure forces the auxiliary verb 'hat' past the participle 'verpasst'."
+  },
+  {
+    "id": 59,
+    "english": "We must discuss this problem together.",
+    "german": "Wir müssen dieses Problem zusammen besprechen.",
+    "grammar_note": "'Besprechen' implies a deeper, more constructive discussion than the basic A1 verb 'sprechen'."
+  },
+  {
+    "id": 60,
+    "english": "My parents are visiting us over the weekend.",
+    "german": "Meine Eltern besuchen uns am Wochenende.",
+    "grammar_note": "'Besuchen' acts directly on the accusative plural pronoun 'uns'. Time component 'am Wochenende' takes standard position."
+  },
+  {
+    "id": 61,
+    "english": "I forgot my wallet, so I have to go back.",
+    "german": "Ich habe meinen Geldbeutel vergessen, deshalb muss ich zurückgehen.",
+    "grammar_note": "'Geldbeutel' is a standard A2 word for wallet. 'Deshalb' transitions into an inverted clause structure ('muss ich')."
+  },
+  {
+    "id": 62,
+    "english": "Can you tell me how I can reach you?",
+    "german": "Können Sie mir sagen, wie ich Sie erreichen kann?",
+    "grammar_note": "Indirect question formatting. 'Erreichen' (to reach/contact) sits as an infinitive ahead of the closing conjugated modal 'kann'."
+  },
+  {
+    "id": 63,
+    "english": "I am looking for a quiet place where I can work.",
+    "german": "Ich suche einen ruhigen Ort, wo ich arbeiten kann.",
+    "grammar_note": "A2 relative-style location clause. 'Einen ruhigen Ort' showcases the masculine accusative adjective suffix '-en'."
+  },
+  {
+    "id": 64,
+    "english": "The food tastes excellent today.",
+    "german": "Das Essen schmeckt heute hervorragend.",
+    "grammar_note": "Upgrading vocabulary from simple 'gut' or 'lecker' to 'hervorragend' (excellent/outstanding)."
+  },
+  {
+    "id": 65,
+    "english": "I'm sorry, I'm not familiar with this area.",
+    "german": "Entschuldigung, ich kenne mich in dieser Gegend nicht aus.",
+    "grammar_note": "The idiom 'sich auskennen' means to know your way around or be familiar with something. It splits around the dative location phrase."
+  },
+  {
+    "id": 66,
+    "english": "We are planning to rent a car for our trip.",
+    "german": "Wir planen, für unsere Reise ein Auto zu mieten.",
+    "grammar_note": "An infinitive phrase utilizing 'zu mieten' wrapped neatly around the direct accusative object of the intention."
+  },
+  {
+    "id": 67,
+    "english": "He has changed his phone number again.",
+    "german": "Er hat seine Telefonnummer schon wieder geändert.",
+    "grammar_note": "'Schon wieder' is an idiomatic filler meaning 'yet again'. 'Geändert' is the past participle of regular verb 'ändern'."
+  },
+  {
+    "id": 68,
+    "english": "The course starts at the beginning of October.",
+    "german": "Der Kurs beginnt Anfang Oktober.",
+    "grammar_note": "'Anfang' followed directly by a month is a common time shorthand omitting the need for complex genitive structures at A2."
+  },
+  {
+    "id": 69,
+    "english": "I cannot come because I have caught a cold.",
+    "german": "Ich kann nicht kommen, weil ich mich erkältet habe.",
+    "grammar_note": "The verb 'sich erkälten' is reflexive. In the subordinate clause, the auxiliary 'habe' moves behind the reflexive pronoun and past participle."
+  },
+  {
+    "id": 70,
+    "english": "Could you please fill out this form?",
+    "german": "Könnten Sie bitte dieses Formular ausfüllen?",
+    "grammar_note": "A2 bureaucratic/functional literacy. 'Ausfüllen' is a separable verb meaning to fill out a document completely."
+  },
+  {
+    "id": 71,
+    "english": "The supermarket is right opposite the post office.",
+    "german": "Der Supermarkt liegt direkt gegenüber der Post.",
+    "grammar_note": "The preposition 'gegenüber' always requires the dative case, changing the feminine 'die Post' to 'der Post'."
+  },
+  {
+    "id": 72,
+    "english": "I want to improve my German skills this year.",
+    "german": "Ich möchte dieses Jahr meine Deutschkenntnisse verbessern.",
+    "grammar_note": "'Deutschkenntnisse' (German knowledge/skills) is an expansive plural noun. 'Verbessern' is the infinitive pushed to the end."
+  },
+  {
+    "id": 73,
+    "english": "The weather was so beautiful that we stayed outside until late at night.",
+    "german": "Das Wetter war so schön, dass wir bis spät in die Nacht draußen geblieben sind.",
+    "grammar_note": "Conjunction 'dass' (so... that) creates a subordinate frame. 'Bleiben' indicates a status but takes 'sein' (*sind*) in past perfect."
+  },
+  {
+    "id": 74,
+    "english": "I received an invitation to the wedding.",
+    "german": "Ich habe eine Einladung zur Hochzeit erhalten.",
+    "grammar_note": "Upgrading from the simple A1 'bekommen' to the proper A2 'erhalten' (to receive). 'Zur' contracts 'zu der' (dative feminine)."
+  },
+  {
+    "id": 75,
+    "english": "My coworkers are very helpful and friendly.",
+    "german": "Meine Kollegen sind sehr hilfsbereit und freundlich.",
+    "grammar_note": "'Hilfsbereit' (ready to help) is a crucial A2 compound adjective for workplace and descriptive profiles."
+  },
+  {
+    "id": 76,
+    "english": "I forgot my password, so I cannot log in.",
+    "german": "Ich habe mein Passwort vergessen, sodass ich mich nicht anmelden kann.",
+    "grammar_note": "'Sodass' introduces a consecutive clause showing result, acting as a subordinator that leaves 'kann' at the very tail."
+  },
+  {
+    "id": 77,
+    "english": "The pharmacy is closed on Sundays.",
+    "german": "Die Apotheke ist sonntags geschlossen.",
+    "grammar_note": "Adding a lowercase '-s' to a day of the week creates an adverb meaning 'every Sunday' or 'on Sundays' generally."
+  },
+  {
+    "id": 78,
+    "english": "I have to return this book to the library today.",
+    "german": "Ich muss dieses Buch heute der Bibliothek zurückgeben.",
+    "grammar_note": "The separable verb 'zurückgeben' requires a dative recipient ('der Bibliothek') and an accusative object ('dieses Buch')."
+  },
+  {
+    "id": 79,
+    "english": "He speaks German fluently although he has only been learning it for a year.",
+    "german": "Er spricht fließend Deutsch, obwohl er es erst seit einem Jahr lernt.",
+    "grammar_note": "Vocabulary expansion: 'fließend' (fluently). 'Erst' is used instead of 'nur' when discussing time durations to mean 'only so far'."
+  },
+  {
+    "id": 80,
+    "english": "We must protect our environment.",
+    "german": "Wir müssen unsere Umwelt schützen.",
+    "grammar_note": "Environmental topics enter at A2. 'Schützen' is a regular transitive verb paired with the accusative plural/feminine possessive."
+  },
+  {
+    "id": 81,
+    "english": "Could you help me move next Saturday?",
+    "german": "Könntest du mir nächsten Samstag beim Umzug helfen?",
+    "grammar_note": "The formula 'helfen bei' means to help with something. 'Bei' collapses with 'dem' to form 'beim', requiring the dative noun."
+  },
+  {
+    "id": 82,
+    "english": "I am applying for a visa at the embassy.",
+    "german": "Ich beantrage ein Visum bei der Botschaft.",
+    "grammar_note": "'Beantragen' is a non-separable verb meaning to formally apply for a document. 'Bei' indicates the institution you are dealing with."
+  },
+  {
+    "id": 83,
+    "english": "The museum offers a discount for students.",
+    "german": "Das Museum bietet einen Rabatt für Studenten.",
+    "grammar_note": "'Bieten' is the base verb for offering. 'Rabatt' is masculine accusative, receiving the suffix '-en' from the indefinite article."
+  },
+  {
+    "id": 84,
+    "english": "I have broken my leg and cannot walk.",
+    "german": "Ich habe mir das Bein gebrochen und kann nicht gehen.",
+    "grammar_note": "Uses a reflexive dative structure ('mir das Bein gebrochen') because breaking your own body part is viewed as an event that happens to you."
+  },
+  {
+    "id": 85,
+    "english": "The flight was cancelled due to the strike.",
+    "german": "Der Flug wurde wegen des Streiks annulliert.",
+    "grammar_note": "An introduction to the real passive voice structure ('wurde... annulliert') combined with the preposition 'wegen' which technically prefers genitive."
+  },
+  {
+    "id": 86,
+    "english": "I am getting used to the food here slowly.",
+    "german": "Ich gewöhne mich langsam an das Essen hier.",
+    "grammar_note": "Reinforcing the A2 reflexive pattern 'sich gewöhnen an' + accusative case."
+  },
+  {
+    "id": 87,
+    "english": "The customer requested a refund.",
+    "german": "Der Kunde hat eine Rückerstattung verlangt.",
+    "grammar_note": "Advanced customer interaction vocabulary. 'Verlangen' means to demand or formally request; 'Rückerstattung' is a refund."
+  },
+  {
+    "id": 88,
+    "english": "I spent the weekend with my grandparents in the countryside.",
+    "german": "Ich habe das Wochenende mit meinen Großeltern auf dem Land verbracht.",
+    "grammar_note": "'Auf dem Land' is the fixed idiomatic expression for being located out in the countryside (dative case)."
+  },
+  {
+    "id": 89,
+    "english": "The view from the mountain was breathtaking.",
+    "german": "Die Aussicht vom Berg war atemberaubend.",
+    "grammar_note": "Compound word mastery: 'atemberaubend' (breath-robbing/breathtaking). 'Vom' contracts 'von dem'."
+  },
+  {
+    "id": 90,
+    "english": "I cannot participate in the meeting tomorrow.",
+    "german": "Ich kann morgen nicht am Meeting teilnehmen.",
+    "grammar_note": "The separable verb 'teilnehmen an' means to participate in. It requires the dative case, contracting to 'am Meeting'."
+  },
+  {
+    "id": 91,
+    "english": "Please send me a confirmation as soon as possible.",
+    "german": "Bitte senden Sie mir so schnell wie möglich eine Bestätigung.",
+    "grammar_note": "Formal workplace phrasing. 'Bestätigung' (confirmation) is a typical A2 professional communication noun."
+  },
+  {
+    "id": 92,
+    "english": "I left my umbrella in the subway.",
+    "german": "Ich habe meinen Regenschirm in der U-Bahn liegen lassen.",
+    "grammar_note": "Using 'liegen lassen' (to leave something behind accidentally). In past tense compound structures, it uses a double infinitive effect."
+  },
+  {
+    "id": 93,
+    "english": "He left the room without saying a word.",
+    "german": "Er hat den Raum verlassen, ohne ein Wort zu sagen.",
+    "grammar_note": "An 'ohne... zu' infinitive construction meaning 'without doing something'. The phrase frames the action cleanly at the end."
+  },
+  {
+    "id": 94,
+    "english": "I am looking for a flatmate who can cook well.",
+    "german": "Ich suche einen Mitbewohner, der gut kochen kann.",
+    "grammar_note": "Introduction of basic relative clauses. The relative pronoun 'der' matches the masculine 'Mitbewohner' and sends 'kann' to the back."
+  },
+  {
+    "id": 95,
+    "english": "The printer is out of paper again.",
+    "german": "Der Drucker hat schon wieder kein Papier mehr.",
+    "grammar_note": "'Kein... mehr' is the idiomatic standard for 'no more' or 'out of' a physical resource."
+  },
+  {
+    "id": 96,
+    "english": "We need to cancel our flight due to an emergency.",
+    "german": "Wir müssen unseren Flug wegen eines Notfalls stornieren.",
+    "grammar_note": "'Wegen eines Notfalls' shows proper masculine genitive modification of the indefinite article and noun suffix ('-s')."
+  },
+  {
+    "id": 97,
+    "english": "I prefer living in a quiet neighborhood.",
+    "german": "Ich wohne lieber in einer ruhigen Nachbarschaft.",
+    "grammar_note": "Using 'lieber' embedded next to the verb to signify structural preference in an apartment search context."
+  },
+  {
+    "id": 98,
+    "english": "The traffic light turned red just as I arrived.",
+    "german": "Die Ampel wurde rot, als ich gerade angekommen bin.",
+    "grammar_note": "'Werden' in its simple past form 'wurde' signifies a transformation or change of state (the light turned red)."
+  },
+  {
+    "id": 99,
+    "english": "He passed his driver's license exam yesterday.",
+    "german": "Er hat gestern seine Führerscheinprüfung bestanden.",
+    "grammar_note": "A2 compounding: 'Führerscheinprüfung'. The verb 'bestehen' (to pass an exam) forms its past participle without a 'ge-' prefix."
+  },
+  {
+    "id": 100,
+    "english": "I would like to extend my lease if possible.",
+    "german": "Ich möchte meinen Mietvertrag verlängern, wenn es möglich ist.",
+    "grammar_note": "Essential tenant communication phrasing. 'Mietvertrag' is lease/rental contract; 'verlängern' means to extend or lengthen."
+  },
+  {
+    "id": 101,
+    "english": "She fell asleep while she was reading a book.",
+    "german": "Sie ist eingeschlafen, während sie ein Buch gelesen hat.",
+    "grammar_note": "The past tense of the change-of-state verb 'einschlafen' requires the auxiliary 'sein' (*ist*), paired with a simultaneous 'während' clause."
+  },
+  {
+    "id": 102,
+    "english": "The machine stops automatically if an error occurs.",
+    "german": "Die Maschine stoppt automatisch, wenn ein Fehler auftritt.",
+    "grammar_note": "A2 technical concept. The verb 'auftreten' is strong/irregular and changes its vowel stem ('tritt... auf') in the third person singular."
+  },
+  {
+    "id": 103,
+    "english": "I have to share an office with a coworker.",
+    "german": "Ich muss mir ein Büro mit einem Kollegen teilen.",
+    "grammar_note": "The verb 'teilen' utilizes a reflexive dative pronoun ('mir') when you mean you are sharing something for your own utility."
+  },
+  {
+    "id": 104,
+    "english": "He acts as if he knows everything.",
+    "german": "Er tut so, als ob er alles wüsste.",
+    "grammar_note": "A useful idiomatic structure 'tun als ob' (to act as if), which pushes the verb to the end in its subjunctive state."
+  },
+  {
+    "id": 105,
+    "english": "I need to exchange these shoes because they are too tight.",
+    "german": "Ich muss diese Schuhe umtauschen, weil sie zu eng sind.",
+    "grammar_note": "Commercial skill: 'Umtauschen' means specifically to swap an item at a retail counter. 'Eng' expands on descriptions past simple color/shape."
+  },
+  {
+    "id": 106,
+    "english": "The elevator is out of order, so we must take the stairs.",
+    "german": "Der Aufzug ist außer Betrieb, deshalb müssen wir die Treppe nehmen.",
+    "grammar_note": "'Außer Betrieb' is the professional idiomatic equivalent to 'out of order' for heavy machinery/infrastructure."
+  },
+  {
+    "id": 107,
+    "english": "I am register myself for the advanced course.",
+    "german": "Ich melde mich für den Fortgeschrittenenkurs an.",
+    "grammar_note": "The separable reflexive verb 'sich anmelden für' means to register for an event, directing accusative case layout."
+  },
+  {
+    "id": 108,
+    "english": "We checked into the hotel late last night.",
+    "german": "Wir haben gestern Spätbühne im Hotel eingecheckt.",
+    "grammar_note": "Germans have adopted the global travel verb 'einchecken', forming its participle cleanly as 'eingecheckt'."
+  },
+  {
+    "id": 109,
+    "english": "I have a package that I need to drop off at the post office.",
+    "german": "Ich habe ein Paket, das ich bei der Post abgeben muss.",
+    "grammar_note": "A relative clause introduced by the neuter relative pronoun 'das', which terminates with the closing combination of infinitive and modal."
+  },
+  {
+    "id": 110,
+    "english": "The project must be finished by tomorrow.",
+    "german": "Das Projekt muss bis morgen fertiggestellt sein.",
+    "grammar_note": "Using 'fertigstellen' instead of the simple adjective 'fertig'. This uses a passive state construction at the absolute finish."
+  },
+  {
+    "id": 111,
+    "english": "I don't mind if it takes a bit longer.",
+    "german": "Es macht mir nichts aus, wenn es etwas länger dauert.",
+    "grammar_note": "The phrase 'jemandem etwas ausmachen' translates to minding or being bothered by something. It separates neatly here."
+  },
+  {
+    "id": 112,
+    "english": "The contract was signed by both parties.",
+    "german": "Der Vertrag wurde von beiden Parteien unterschrieben.",
+    "grammar_note": "A clear past passive sentence using 'wurde' combined with the agent marker 'von' which demands a plural dative ending ('beiden')."
+  },
+  {
+    "id": 113,
+    "english": "I am not allowed to eat sweets because of my diet.",
+    "german": "Ich darf wegen meiner Diät keine Süßigkeiten essen.",
+    "grammar_note": "Modal verb 'dürfen' denotes permission/prohibition. Paired with 'wegen' which alters the possessive to dative/genitive context."
+  },
+  {
+    "id": 114,
+    "english": "Could you please recommend a reliable craftsman?",
+    "german": "Könnten Sie mir bitte einen zuverlässigen Handwerker empfehlen?",
+    "grammar_note": "A2 lifestyle situation. 'Zuverlässig' (reliable) shows proper masculine accusative adjective tailoring ('-en')."
+  },
+  {
+    "id": 115,
+    "english": "The noise outside prevents me from concentrating.",
+    "german": "Der Lärm draußen hält mich davon ab, mich zu konzentrieren.",
+    "grammar_note": "The compound framework 'jemanden abhalten von' means to prevent someone from doing something, combined with reflexive 'sich konzentrieren'."
+  },
+  {
+    "id": 116,
+    "english": "I am transferring the money to your account right now.",
+    "german": "Ich überwiese das Geld jetzt auf Ihr Konto.",
+    "grammar_note": "Banking literacy: 'Überweisen' is to transfer funds digitally. The directional action onto an account triggers accusative case."
+  },
+  {
+    "id": 117,
+    "english": "We had a lot of fun despite the continuous rain.",
+    "german": "Wir hatten trotz des Dauerregens viel Spaß.",
+    "grammar_note": "The sophisticated preposition 'trotz' (despite) requires the genitive case, leading to the modified masculine article 'des'."
+  },
+  {
+    "id": 118,
+    "english": "I need a receipt to get my money back.",
+    "german": "Ich brauche einen Beleg, um mein Geld zurückzubekommen.",
+    "grammar_note": "'Beleg' or 'Quittung' replaces basic A1 'Rechnung'. The sentence concludes with a multi-part 'um... zu' separation syntax."
+  },
+  {
+    "id": 119,
+    "english": "He apologized for his rude behavior.",
+    "german": "Er hat sich für sein unhöfliches Verhalten entschuldigt.",
+    "grammar_note": "The reflexive pattern 'sich entschuldigen für' connects with an accusative object representing the cause of regret."
+  },
+  {
+    "id": 120,
+    "english": "The event takes place in the city center.",
+    "german": "Die Veranstaltung findet im Stadtzentrum statt.",
+    "grammar_note": "Upgrading vocabulary from simple 'Party' to 'Veranstaltung' (event). The verb is the separable 'stattfinden'."
+  },
+  {
+    "id": 121,
+    "english": "I am not sure if the store is open on Saturdays.",
+    "german": "Ich bin mir nicht sicher, ob das Geschäft samstags geöffnet ist.",
+    "grammar_note": "'Ich bin mir sicher' uses a reflexive dative pronoun to show deep personal conviction or doubt relative to an 'ob' clause."
+  },
+  {
+    "id": 122,
+    "english": "My grandfather tells stories about the old times frequently.",
+    "german": "Mein Großvater erzählt oft Geschichten über die alten Zeiten.",
+    "grammar_note": "'Erzählen' goes beyond basic 'sagen' to imply structured narration or story-telling. Plural accusative adjective formatting follows."
+  },
+  {
+    "id": 123,
+    "english": "I have decided to apply for the international scholarship.",
+    "german": "Ich habe mich entschieden, mich um das internationale Stipendium zu bewerben.",
+    "grammar_note": "A double reflexive display: 'sich entscheiden' (to decide) paired into an infinitive statement of 'sich bewerben um'."
+  },
+  {
+    "id": 124,
+    "english": "The signal is very weak here inside the building.",
+    "german": "Der Empfang ist hier drinnen im Gebäude sehr schwach.",
+    "grammar_note": "Mobile connectivity literacy: 'Empfang' means reception/signal quality within spatial boundaries."
+  },
+  {
+    "id": 125,
+    "english": "We should schedule a meeting to resolve the issue.",
+    "german": "Wir sollten ein Treffen vereinbaren, um das Problem zu lösen.",
+    "grammar_note": "Professional resolution structure utilizing 'sollten' paired with an 'um... zu' objective infinitive block."
+  },
+  {
+    "id": 126,
+    "english": "I want to unsubscribe from this newsletter.",
+    "german": "Ich möchte mich von diesem Newsletter abmelden.",
+    "grammar_note": "Digital literacy: 'Sich abmelden von' means to sign out or unsubscribe from a content feed via dative connection."
+  },
+  {
+    "id": 127,
+    "english": "The delivery was delayed by several days.",
+    "german": "Die Lieferung hat sich um einige Tage verzögert.",
+    "grammar_note": "Commercial context: 'Lieferung' (delivery). The reflexive verb 'sich verzögern' explains that a process ran late independently."
+  },
+  {
+    "id": 128,
+    "english": "Could you please double-check the figures?",
+    "german": "Könnten Sie die Zahlen bitte noch einmal überprüfen.",
+    "grammar_note": "Office setting request form. 'Überprüfen' means to audit or verify rather than just look at something superficially."
+  },
+  {
+    "id": 129,
+    "english": "I always separate plastics from paper waste.",
+    "german": "Ich trenne Plastik immer vom Papiermüll.",
+    "grammar_note": "A2 cultural standard topic: waste sorting. 'Trennen von' means to physically split or categorize items."
+  },
+  {
+    "id": 130,
+    "english": "He promised me that he would keep the secret.",
+    "german": "Er hat mir versprochen, dass er das Geheimnis für sich behält.",
+    "grammar_note": "'Versprechen' takes a dative recipient ('mir'). The subordinate clause wraps around the idiom 'für sich behalten' (keep to oneself)."
+  },
+  {
+    "id": 131,
+    "english": "The product is unfortunately no longer available in our stock.",
+    "german": "Das Produkt ist leider nicht mehr in unserem Lager verfügbar.",
+    "grammar_note": "Retail tracking speech. 'Verfügbar' (available) and 'Lager' (warehouse stock) represent solid A2 commercial mastery."
+  },
+  {
+    "id": 132,
+    "english": "I am proud that I successfully completed the language level.",
+    "german": "Ich bin stolz darauf, dass ich das Sprachniveau erfolgreich bestanden habe.",
+    "grammar_note": "Links the placeholder 'darauf' to an explanatory subordinate clause summarizing structural accomplishment."
+  },
+  {
+    "id": 133,
+    "english": "Please do not forget to attach the document to the email.",
+    "german": "Bitte vergiss nicht, das Dokument an die E-Mail anzuhängen.",
+    "grammar_note": "Digital attachment instruction. The verb is 'anhängen', which splits cleanly around the infinitive marker 'zu'."
+  },
+  {
+    "id": 134,
+    "english": "The heating turns on automatically when temperature drops.",
+    "german": "Die Heizung schaltet sich automatisch ein, wenn die Temperatur sinkt.",
+    "grammar_note": "The technical verb is reflexive 'sich einschalten' (to activate itself), reacting directly to a conditional ambient change."
+  },
+  {
+    "id": 135,
+    "english": "I would like to trade my old smartphone for a newer model.",
+    "german": "Ich möchte mein altes Smartphone gegen ein neueres Modell eintauschen.",
+    "grammar_note": "'Eintauschen gegen' requires accusative transformation, combined with a comparative adjective ending ('neueres')."
+  },
+  {
+    "id": 136,
+    "english": "We must reduce our energy consumption to save costs.",
+    "german": "Wir müssen unseren Energieverbrauch senken, um Kosten zu sparen.",
+    "grammar_note": "Compound utility term: 'Energieverbrauch'. The purpose clause demonstrates efficient verb bundling at the close."
+  },
+  {
+    "id": 137,
+    "english": "The doctor checked my blood pressure and told me to rest.",
+    "german": "Der Arzt hat meinen Blutdruck gemessen und mir gesagt, dass ich mich ausruhen soll.",
+    "grammar_note": "Combines irregular past participle 'gemessen' with an internal command framed via a polite subordinate modal constraint."
+  },
+  {
+    "id": 138,
+    "english": "The application deadline ends at midnight.",
+    "german": "Die Bewerbungsfrist endet um Mitternacht.",
+    "grammar_note": "Administrative A2 vocabulary item: 'Bewerbungsfrist' (formal application timeline limit)."
+  },
+  {
+    "id": 139,
+    "english": "I am looking for an accommodation that allows pets.",
+    "german": "Ich suche eine Unterkunft, die Haustiere erlaubt.",
+    "grammar_note": "Upgrading from 'Wohnung' to generic 'Unterkunft' (accommodation) paired with a relative clause governing plural structures."
+  },
+  {
+    "id": 140,
+    "english": "He cancelled the appointment because an unexpected problem arose.",
+    "german": "Er hat den Termin abgesagt, weil ein unerwartetes Problem aufgetreten ist.",
+    "grammar_note": "Showcases complex compound adjective modification ('unerwartetes') alongside an introspective irregular conversational past layout."
+  },
+  {
+    "id": 141,
+    "english": "I try to eat healthier by cooking fresh food every day.",
+    "german": "Ich versuche, mich gesünder zu ernähren, indem ich jeden Tag frisch koche.",
+    "grammar_note": "Uses the conditional/modal connector 'indem' (by doing so), which tracks structural methodology and acts as a subordinator."
+  },
+  {
+    "id": 142,
+    "english": "The warning signs were positioned clearly along the road.",
+    "german": "Die Warnschilder waren deutlich entlang der Straße platziert.",
+    "grammar_note": "The preposition 'entlang' often dictates genitive context when preceding a noun, leading to the feminine article layout 'der'."
+  },
+  {
+    "id": 143,
+    "english": "I cannot download this attachment because the file is corrupted.",
+    "german": "Ich kann diesen Anhang nicht herunterladen, weil die Datei beschädigt ist.",
+    "grammar_note": "IT communication phrasing: 'Anhang' (attachment), 'herunterladen' (download) and 'beschädigt' (damaged/corrupted)."
+  },
+  {
+    "id": 144,
+    "english": "We need to replace the old batteries in the remote control.",
+    "german": "Wir müssen die alten Batterien in der Fernbedienung austauschen.",
+    "grammar_note": "Everyday home life terminology: 'Fernbedienung' (remote control) and the complex structural verb 'austauschen'."
+  },
+  {
+    "id": 145,
+    "english": "The invoice includes all shipping costs.",
+    "german": "Die Rechnung enthält alle Versandkosten.",
+    "grammar_note": "Commercial standard phrase. 'Enthalten' is a strong verb (contains), paired with plural compound noun 'Versandkosten'."
+  },
+  {
+    "id": 146,
+    "english": "I filled out the request form carefully.",
+    "german": "Ich habe das Antragsformular sorgfältig ausgefüllt.",
+    "grammar_note": "Improves vocabulary by shifting the adverb choice from simple 'gut' to the descriptive 'sorgfältig' (carefully/painstakingly)."
+  },
+  {
+    "id": 147,
+    "english": "The light turns on automatically as soon as someone enters the room.",
+    "german": "Das Licht geht automatisch an, sobald jemand den Raum betritt.",
+    "grammar_note": "The subordinator 'sobald' (as soon as) controls timing sequence and commands the irregular verb 'betritt' to hold the end stance."
+  },
+  {
+    "id": 148,
+    "english": "I need to withdraw cash from the ATM before we eat.",
+    "german": "Ich muss noch Geld am Geldautomaten abheben, bevor wir essen.",
+    "grammar_note": "Financial functional skill: 'Geld abheben' (to withdraw money). 'Geldautomat' is the correct term for an ATM."
+  },
+  {
+    "id": 149,
+    "english": "He explained to me how the new software functions.",
+    "german": "Er hat mir erklärt, wie die neue Software funktioniert.",
+    "grammar_note": "The main verb 'erklären' requires a dative object ('mir') indicating who received the description, opening up an indirect clause."
+  },
+  {
+    "id": 150,
+    "english": "I look forward to hearing from you soon.",
+    "german": "Ich freue mich darauf, bald von Ihnen zu hören.",
+    "grammar_note": "The formal standard close for professional letters and emails, utilizing the da-compound placeholder 'darauf' ahead of an infinitive clause."
+  }
+]
